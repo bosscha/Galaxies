@@ -1,0 +1,5187 @@
+(lp0
+(dp1
+S'vel'
+p2
+F1394.0
+sS'Photometry'
+p3
+ccopy_reg
+_reconstructor
+p4
+(castropy.table.table
+Table
+p5
+c__builtin__
+object
+p6
+Ntp7
+Rp8
+(ccollections
+OrderedDict
+p9
+((lp10
+(lp11
+S'No.'
+p12
+acnumpy.ma.core
+_mareconstruct
+p13
+(castropy.table.column
+MaskedColumn
+p14
+castropy.table.column
+BaseColumn
+p15
+(I0
+tp16
+S'b'
+p17
+tp18
+Rp19
+(I1
+(I11
+tp20
+cnumpy
+dtype
+p21
+(S'i4'
+p22
+I0
+I1
+tp23
+Rp24
+(I3
+S'<'
+p25
+NNNI-1
+I-1
+I0
+tp26
+bI00
+S'\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00\x05\x00\x00\x00\x06\x00\x00\x00\x07\x00\x00\x00\x08\x00\x00\x00\t\x00\x00\x00\n\x00\x00\x00\x0b\x00\x00\x00'
+p27
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p28
+cnumpy.core.multiarray
+_reconstruct
+p29
+(cnumpy
+ndarray
+p30
+(I0
+tp31
+g17
+tp32
+Rp33
+(I1
+(tg21
+(S'i4'
+p34
+I0
+I1
+tp35
+Rp36
+(I3
+S'<'
+p37
+NNNI-1
+I-1
+I0
+tp38
+bI00
+S'?B\x0f\x00'
+p39
+tp40
+b(g12
+NNVA sequential number of Photometry Measurement for this object, applicable to this list only.
+p41
+g9
+((lp42
+(lp43
+Vucd
+p44
+aVmeta.number;phot.mag
+p45
+aatp46
+Rp47
+(lp48
+tp49
+tp50
+baa(lp51
+S'Observed Passband'
+p52
+ag13
+(g14
+g15
+g16
+g17
+tp53
+Rp54
+(I1
+(I11
+tp55
+g21
+(S'O8'
+p56
+I0
+I1
+tp57
+Rp58
+(I3
+S'|'
+p59
+NNNI-1
+I-1
+I63
+tp60
+bI00
+(lp61
+S'B (Cousins) (B_T)'
+p62
+aS'B (Cousins) (B_25)'
+p63
+aS'B (Cousins) (B_26)'
+p64
+aS'b_J'
+p65
+aS'B_J'
+p66
+aS'R (Cousins) (R_26)'
+p67
+aS'R (Cousins) (R_T)'
+p68
+aS'R (Cousins) (R_25)'
+p69
+aS'R'
+p70
+aS'I'
+p71
+aS'HI line (Parkes)'
+p72
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p73
+g29
+(g30
+(I0
+tp74
+g17
+tp75
+Rp76
+(I1
+(tg58
+I00
+(lp77
+g29
+(g30
+(I0
+tp78
+g17
+tp79
+Rp80
+(I1
+(tg58
+I00
+(lp81
+S'?'
+p82
+atp83
+batp84
+b(g52
+NNVColloquial descriptions of the frequency or wavelength at which the data were collected, identifying the bandpass by name e.g., "V","1.4GHz", "6 cm", "HI", etc.
+p85
+g9
+((lp86
+(lp87
+g44
+aVinstr.bandpass
+p88
+aatp89
+Rp90
+(lp91
+tp92
+tp93
+baa(lp94
+S'Photometry Measurement'
+p95
+ag13
+(g14
+g15
+g16
+g17
+tp96
+Rp97
+(I1
+(I11
+tp98
+g21
+(S'f8'
+p99
+I0
+I1
+tp100
+Rp101
+(I3
+S'<'
+p102
+NNNI-1
+I-1
+I0
+tp103
+bI00
+S"\xd7\xa3p=\nW.@=\n\xd7\xa3p\xbd.@\x14\xaeG\xe1z\x94.@\xe1z\x14\xaeGa.@\xaa`TR'`.@fffff\xe6-@\x9a\x99\x99\x99\x99\x99-@\x9a\x99\x99\x99\x99\x19.@z6\xab>W[.@\xe6?\xa4\xdf\xbeN.@\x00\x00\x00\x00\x00\x00\x1c@"
+p104
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p105
+g29
+(g30
+(I0
+tp106
+g17
+tp107
+Rp108
+(I1
+(tg21
+(S'f8'
+p109
+I0
+I1
+tp110
+Rp111
+(I3
+S'<'
+p112
+NNNI-1
+I-1
+I0
+tp113
+bI00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p114
+tp115
+b(g95
+NV{!r:>}
+p116
+VThe published photometry or fluxes  for this point.
+p117
+g9
+((lp118
+(lp119
+g44
+aVphot
+p120
+aatp121
+Rp122
+(lp123
+tp124
+tp125
+baa(lp126
+S'Uncertainty'
+p127
+ag13
+(g14
+g15
+g16
+g17
+tp128
+Rp129
+(I1
+(I11
+tp130
+g58
+I00
+(lp131
+S'+/-0.09'
+p132
+aS'+/-0.09'
+p133
+aS'+/-0.09'
+p134
+aS'+/-0.12'
+p135
+aS''
+p136
+aS'+/-0.09'
+p137
+aS'+/-0.09'
+p138
+aS'+/-0.09'
+p139
+ag136
+ag136
+ag136
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p140
+g29
+(g30
+(I0
+tp141
+g17
+tp142
+Rp143
+(I1
+(tg58
+I00
+(lp144
+g82
+atp145
+b(g127
+NNVThe published uncertainty for photometric data.
+p146
+g9
+((lp147
+(lp148
+g44
+aVstat.error;phot
+p149
+aatp150
+Rp151
+(lp152
+tp153
+tp154
+baa(lp155
+S'Units'
+p156
+ag13
+(g14
+g15
+g16
+g17
+tp157
+Rp158
+(I1
+(I11
+tp159
+g58
+I00
+(lp160
+S'mag'
+p161
+aS'mag'
+p162
+aS'mag'
+p163
+aS'mag'
+p164
+aS'mag'
+p165
+aS'mag'
+p166
+aS'mag'
+p167
+aS'mag'
+p168
+aS'mag'
+p169
+aS'mag'
+p170
+aS'Jy km s^-1^'
+p171
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p172
+g29
+(g30
+(I0
+tp173
+g17
+tp174
+Rp175
+(I1
+(tg58
+I00
+(lp176
+g82
+atp177
+b(g156
+NNVUnits of photometry measurement for this point.
+p178
+g9
+((lp179
+(lp180
+g44
+aVmeta.unit;phot
+p181
+aatp182
+Rp183
+(lp184
+tp185
+tp186
+baa(lp187
+S'Frequency'
+p188
+ag13
+(g14
+g15
+g16
+g17
+tp189
+Rp190
+(I1
+(I11
+tp191
+g101
+I00
+S'\x00\x80\xbcX\xedZ\x03C\x00\x80\xbcX\xedZ\x03C\x00\x80\xbcX\xedZ\x03C\x00\x80h\x8a\xe37\x02C\x00\x80h\x8a\xe37\x02C\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\xeb\x05-\x8b\xf5B\x00\x00\x00\xc0\xde(\xd5A'
+p192
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p193
+g29
+(g30
+(I0
+tp194
+g17
+tp195
+Rp196
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p197
+tp198
+b(g188
+g4
+(castropy.units.core
+PrefixUnit
+p199
+g6
+Ntp200
+Rp201
+(dp202
+S'_format'
+p203
+(dp204
+Vlatex
+p205
+V\u005cmu m
+p206
+sVunicode
+p207
+V\u03bcm
+p208
+ssS'_short_names'
+p209
+(lp210
+Vum
+p211
+asS'_names'
+p212
+(lp213
+g211
+asS'_represents'
+p214
+g4
+(castropy.units.core
+CompositeUnit
+p215
+g6
+Ntp216
+Rp217
+(dp218
+S'_decomposed_cache'
+p219
+NsS'_powers'
+p220
+(lp221
+I1
+asS'_scale'
+p222
+F1e-06
+sS'_hash'
+p223
+NsS'_bases'
+p224
+(lp225
+g4
+(castropy.units.core
+Unit
+p226
+g6
+Ntp227
+Rp228
+(dp229
+g203
+(dp230
+sg209
+(lp231
+Vm
+p232
+asg212
+(lp233
+g232
+asg214
+castropy.units.core
+_recreate_irreducible_unit
+p234
+(castropy.units.core
+IrreducibleUnit
+p235
+(lp236
+Vm
+p237
+aVmeter
+p238
+aI01
+tp239
+Rp240
+(dp241
+g203
+(dp242
+sg209
+(lp243
+g237
+asg212
+(lp244
+g237
+ag238
+asS'__doc__'
+p245
+Vmeter: base unit of length in SI
+p246
+sS'_long_names'
+p247
+(lp248
+g238
+asbsg245
+Vmeter
+p249
+sg247
+(lp250
+sbasbsg245
+g211
+sg247
+(lp251
+sbV{!r:>}
+p252
+VThe frequency, wavelength, or photometric passband, in absolute units as calculated by NED
+p253
+g9
+((lp254
+(lp255
+g44
+aVem.freq
+p256
+aatp257
+Rp258
+(lp259
+tp260
+tp261
+baa(lp262
+S'NED Photometry Measurement'
+p263
+ag13
+(g14
+g15
+g16
+g17
+tp264
+Rp265
+(I1
+(I11
+tp266
+g101
+I00
+S'6Y\xa3\x1e\xa2\xd1m?5)\x05\xdd^\xd2h?\x0b{\xda\xe1\xaf\xc9j?\x18\xec\x86m\x8b2k?\x18\xec\x86m\x8b2k?\xd0\xd0?\xc1\xc5\x8aj?\xac\xad\xd8_vOn?\xed\r\xbe0\x99*h?\xfd\xd9\x8f\x14\x91ae?\x98Q,\xb7\xb4\x1ab?\x00\x00\x00\x00\x00\x1d\xe0@'
+p267
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p268
+g29
+(g30
+(I0
+tp269
+g17
+tp270
+Rp271
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p272
+tp273
+b(g263
+g4
+(g226
+g6
+Ntp274
+Rp275
+(dp276
+g203
+(dp277
+sg209
+(lp278
+VJy
+p279
+asg212
+(lp280
+g279
+asg214
+g4
+(g226
+g6
+Ntp281
+Rp282
+(dp283
+g203
+(dp284
+sg209
+(lp285
+VJy
+p286
+asg212
+(lp287
+g286
+aVJansky
+p288
+aVjansky
+p289
+asg214
+g4
+(g215
+g6
+Ntp290
+Rp291
+(dp292
+g219
+g4
+(g215
+g6
+Ntp293
+Rp294
+(dp295
+g219
+Nsg220
+(lp296
+I1
+aI-2
+asg222
+F1e-26
+sg223
+Nsg224
+(lp297
+g234
+(g235
+(lp298
+Vkg
+p299
+aVkilogram
+p300
+aI01
+tp301
+Rp302
+(dp303
+g203
+(dp304
+sg209
+(lp305
+g299
+asg212
+(lp306
+g299
+ag300
+asg245
+Vkilogram: base unit of mass in SI.
+p307
+sg247
+(lp308
+g300
+asbag234
+(g235
+(lp309
+Vs
+p310
+aVsecond
+p311
+aI01
+tp312
+Rp313
+(dp314
+g203
+(dp315
+sg209
+(lp316
+g310
+asg212
+(lp317
+g310
+ag311
+asg245
+Vsecond: base unit of time in SI.
+p318
+sg247
+(lp319
+g311
+asbasbsg220
+(lp320
+I1
+aI-1
+aI-2
+asg222
+F1e-26
+sg223
+I2552863569195047370
+sg224
+(lp321
+g4
+(g226
+g6
+Ntp322
+Rp323
+(dp324
+g203
+(dp325
+sg209
+(lp326
+VW
+p327
+asg212
+(lp328
+g327
+aVWatt
+p329
+aVwatt
+p330
+asg214
+g4
+(g215
+g6
+Ntp331
+Rp332
+(dp333
+g219
+g4
+(g215
+g6
+Ntp334
+Rp335
+(dp336
+g219
+g335
+sg220
+(lp337
+I2
+aI1
+aI-3
+asg222
+F1.0
+sg223
+Nsg224
+(lp338
+g240
+ag302
+ag313
+asbsg220
+(lp339
+I1
+aI-1
+asg222
+F1.0
+sg223
+I4600751733001928972
+sg224
+(lp340
+g4
+(g226
+g6
+Ntp341
+Rp342
+(dp343
+g203
+(dp344
+sg209
+(lp345
+VJ
+p346
+asg212
+(lp347
+g346
+aVJoule
+p348
+aVjoule
+p349
+asg214
+g4
+(g215
+g6
+Ntp350
+Rp351
+(dp352
+g219
+g4
+(g215
+g6
+Ntp353
+Rp354
+(dp355
+g219
+g354
+sg220
+(lp356
+I2
+aI1
+aI-2
+asg222
+F1.0
+sg223
+Nsg224
+(lp357
+g240
+ag302
+ag313
+asbsg220
+(lp358
+I1
+aI1
+asg222
+F1.0
+sg223
+I5380359587502812202
+sg224
+(lp359
+g4
+(g226
+g6
+Ntp360
+Rp361
+(dp362
+g203
+(dp363
+sg209
+(lp364
+VN
+p365
+asg212
+(lp366
+g365
+aVNewton
+p367
+aVnewton
+p368
+asg214
+g4
+(g215
+g6
+Ntp369
+Rp370
+(dp371
+g219
+g370
+sg220
+(lp372
+I1
+aI1
+aI-2
+asg222
+F1.0
+sg223
+I5284843175312972344
+sg224
+(lp373
+g302
+ag240
+ag313
+asbsg245
+VNewton: force
+p374
+sg247
+(lp375
+g367
+ag368
+asbag240
+asbsg245
+VJoule: energy
+p376
+sg247
+(lp377
+g348
+ag349
+asbag313
+asbsg245
+VWatt: power
+p378
+sg247
+(lp379
+g329
+ag330
+asbag4
+(g226
+g6
+Ntp380
+Rp381
+(dp382
+g203
+(dp383
+sg209
+(lp384
+VHz
+p385
+asg212
+(lp386
+g385
+aVHertz
+p387
+aVhertz
+p388
+asg214
+g4
+(g215
+g6
+Ntp389
+Rp390
+(dp391
+g219
+g390
+sg220
+(lp392
+I-1
+asg222
+F1.0
+sg223
+I-5125901030471180199
+sg224
+(lp393
+g313
+asbsg245
+VFrequency
+p394
+sg247
+(lp395
+g387
+ag388
+asbag240
+asbsg245
+VJansky: spectral flux density
+p396
+sg247
+(lp397
+g288
+ag289
+asbsg245
+VJansky
+p398
+sg247
+(lp399
+sbV{!r:>}
+p400
+VFlux/Photometric data for this point as transformed and stored by NED.
+p401
+g9
+((lp402
+(lp403
+g44
+aVphot
+p404
+aatp405
+Rp406
+(lp407
+tp408
+tp409
+baa(lp410
+S'NED Uncertainty'
+p411
+ag13
+(g14
+g15
+g16
+g17
+tp412
+Rp413
+(I1
+(I11
+tp414
+g58
+I00
+(lp415
+S'+/-3.14E-04'
+p416
+aS'+/-2.62E-04'
+p417
+aS'+/-2.83E-04'
+p418
+aS'+/-3.88E-04'
+p419
+ag136
+aS'+/-2.80E-04'
+p420
+aS'+/-3.20E-04'
+p421
+aS'+/-2.55E-04'
+p422
+ag136
+ag136
+ag136
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p423
+g29
+(g30
+(I0
+tp424
+g17
+tp425
+Rp426
+(I1
+(tg58
+I00
+(lp427
+g82
+atp428
+b(g411
+NNVPhotometric/Flux uncertainty as transformed and stored by NED.
+p429
+g9
+((lp430
+(lp431
+g44
+aVstat.error;phot
+p432
+aatp433
+Rp434
+(lp435
+tp436
+tp437
+baa(lp438
+S'NED Units'
+p439
+ag13
+(g14
+g15
+g16
+g17
+tp440
+Rp441
+(I1
+(I11
+tp442
+g58
+I00
+(lp443
+S'Jy'
+p444
+aS'Jy'
+p445
+aS'Jy'
+p446
+aS'Jy'
+p447
+aS'Jy'
+p448
+aS'Jy'
+p449
+aS'Jy'
+p450
+aS'Jy'
+p451
+aS'Jy'
+p452
+aS'Jy'
+p453
+aS'Jy-Hz'
+p454
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p455
+g29
+(g30
+(I0
+tp456
+g17
+tp457
+Rp458
+(I1
+(tg58
+I00
+(lp459
+g82
+atp460
+b(g439
+NNVAbsolute units of photometry measurement for this point.
+p461
+g9
+((lp462
+(lp463
+g44
+aVmeta.unit;phot
+p464
+aatp465
+Rp466
+(lp467
+tp468
+tp469
+baa(lp470
+S'Refcode'
+p471
+ag13
+(g14
+g15
+g16
+g17
+tp472
+Rp473
+(I1
+(I11
+tp474
+g58
+I00
+(lp475
+S'1989ESOLV.C...0000L'
+p476
+aS'1989ESOLV.C...0000L'
+p477
+aS'1989ESOLV.C...0000L'
+p478
+aS'1990MNRAS.243..692M'
+p479
+aS'2005MNRAS.361...34D'
+p480
+aS'1989ESOLV.C...0000L'
+p481
+aS'1989ESOLV.C...0000L'
+p482
+aS'1989ESOLV.C...0000L'
+p483
+aS'2005MNRAS.361...34D'
+p484
+aS'2005MNRAS.361...34D'
+p485
+aS'2005MNRAS.361...34D'
+p486
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p487
+g29
+(g30
+(I0
+tp488
+g17
+tp489
+Rp490
+(I1
+(tg58
+I00
+(lp491
+g82
+atp492
+b(g471
+NNVThe NED 19-digit Bibliographic Reference code.
+p493
+g9
+((lp494
+(lp495
+g44
+aVmeta.bib.bibcode
+p496
+aatp497
+Rp498
+(lp499
+tp500
+tp501
+baa(lp502
+S'Significance'
+p503
+ag13
+(g14
+g15
+g16
+g17
+tp504
+Rp505
+(I1
+(I11
+tp506
+g58
+I00
+(lp507
+S'typical accuracy'
+p508
+aS'typical accuracy'
+p509
+aS'typical accuracy'
+p510
+aS'rms uncertainty'
+p511
+aS'no uncertainty reported'
+p512
+aS'typical accuracy'
+p513
+aS'typical accuracy'
+p514
+aS'typical accuracy'
+p515
+aS'no uncertainty reported'
+p516
+aS'no uncertainty reported'
+p517
+aS'no uncertainty reported'
+p518
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p519
+g29
+(g30
+(I0
+tp520
+g17
+tp521
+Rp522
+(I1
+(tg58
+I00
+(lp523
+g82
+atp524
+b(g503
+NNVType of uncertainty reported in the original publication
+p525
+g9
+((lp526
+(lp527
+g44
+aVmeta.code.error
+p528
+aatp529
+Rp530
+(lp531
+tp532
+tp533
+baa(lp534
+S'Published frequency'
+p535
+ag13
+(g14
+g15
+g16
+g17
+tp536
+Rp537
+(I1
+(I11
+tp538
+g58
+I00
+(lp539
+S'4400       A'
+p540
+aS'4400       A'
+p541
+aS'4400       A'
+p542
+aS'4680      A'
+p543
+aS'4680   A'
+p544
+aS'6400       A'
+p545
+aS'6400       A'
+p546
+aS'6400       A'
+p547
+aS'6400   A'
+p548
+aS'7900   A'
+p549
+aS'1395.9     km s^-1^'
+p550
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p551
+g29
+(g30
+(I0
+tp552
+g17
+tp553
+Rp554
+(I1
+(tg58
+I00
+(lp555
+g82
+atp556
+b(g535
+NNVWavelength or frequency  of observation as given in the original publication
+p557
+g9
+((lp558
+(lp559
+g44
+aVmeta.ref;em.freq
+p560
+aatp561
+Rp562
+(lp563
+tp564
+tp565
+baa(lp566
+S'Frequency Mode'
+p567
+ag13
+(g14
+g15
+g16
+g17
+tp568
+Rp569
+(I1
+(I11
+tp570
+g58
+I00
+(lp571
+S'Broad-band measurement; photometric system transformed'
+p572
+aS'Broad-band measurement; photometric system transformed'
+p573
+aS'Broad-band measurement; photometric system transformed'
+p574
+aS'Broad-band measurement'
+p575
+aS'Broad-band measurement'
+p576
+aS'Broad-band measurement; photometric system transformed'
+p577
+aS'Broad-band measurement; photometric system transformed'
+p578
+aS'Broad-band measurement; photometric system transformed'
+p579
+aS'Broad-band measurement'
+p580
+aS'Broad-band measurement'
+p581
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p582
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p583
+g29
+(g30
+(I0
+tp584
+g17
+tp585
+Rp586
+(I1
+(tg58
+I00
+(lp587
+g82
+atp588
+b(g567
+NNVThe method(s) by which the data were collected, reduced, or derived, regarding the frequency or wavelength;
+p589
+g9
+((lp590
+(lp591
+g44
+aVmeta.ref;em.freq;instr.setup
+p592
+aatp593
+Rp594
+(lp595
+tp596
+tp597
+baa(lp598
+S'Coordinates Targeted'
+p599
+ag13
+(g14
+g15
+g16
+g17
+tp600
+Rp601
+(I1
+(I11
+tp602
+g58
+I00
+(lp603
+S'220447 -4331.5 (B1950)'
+p604
+aS'220447 -4331.5 (B1950)'
+p605
+aS'220447 -4331.5 (B1950)'
+p606
+aS'220447.09 -433124.7 (B1950)'
+p607
+aS'220750.9 -431642.6 (J2000)'
+p608
+aS'220447 -4331.5 (B1950)'
+p609
+aS'220447 -4331.5 (B1950)'
+p610
+aS'220447 -4331.5 (B1950)'
+p611
+aS'220750.9 -431642.6 (J2000)'
+p612
+aS'220750.9 -431642.6 (J2000)'
+p613
+aS'220743.1 -431458. (J2000)'
+p614
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p615
+g29
+(g30
+(I0
+tp616
+g17
+tp617
+Rp618
+(I1
+(tg58
+I00
+(lp619
+g82
+atp620
+b(g599
+NNVThe position at which the measurements were taken, followed by the coordinate reference frame (e.g.,  013350.90 +303935.8 (J2000) in format HHMMSS.ss +DDMMSS.s (EQUINOX),  etc.).
+p621
+g9
+((lp622
+(lp623
+g44
+aVpos
+p624
+aatp625
+Rp626
+(lp627
+tp628
+tp629
+baa(lp630
+S'Spatial Mode'
+p631
+ag13
+(g14
+g15
+g16
+g17
+tp632
+Rp633
+(I1
+(I11
+tp634
+g58
+I00
+(lp635
+S'Modelled datum'
+p636
+aS'Modelled datum'
+p637
+aS'Modelled datum'
+p638
+aS'Flux integrated from map'
+p639
+aS'Flux in fixed aperture'
+p640
+aS'Modelled datum'
+p641
+aS'Modelled datum'
+p642
+aS'Modelled datum'
+p643
+aS'Flux in fixed aperture'
+p644
+aS'Flux in fixed aperture'
+p645
+aS'Flux integrated from map'
+p646
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p647
+g29
+(g30
+(I0
+tp648
+g17
+tp649
+Rp650
+(I1
+(tg58
+I00
+(lp651
+g82
+atp652
+b(g631
+NNVThe method(s) by which the data were collected, reduced, or derived, regarding the spatially integrated flux
+p653
+g9
+((lp654
+(lp655
+g44
+aVphot.flux;instr.setup
+p656
+aatp657
+Rp658
+(lp659
+tp660
+tp661
+baa(lp662
+S'Qualifiers'
+p663
+ag13
+(g14
+g15
+g16
+g17
+tp664
+Rp665
+(I1
+(I11
+tp666
+g58
+I00
+(lp667
+g136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p668
+g29
+(g30
+(I0
+tp669
+g17
+tp670
+Rp671
+(I1
+(tg58
+I00
+(lp672
+g82
+atp673
+b(g663
+NNVSelf-explanatory notes pertaining to the history of the data or adjustments to the data or hanges introduced by NED
+p674
+g9
+((lp675
+(lp676
+g44
+aVmeta.note;instr.setup
+p677
+aatp678
+Rp679
+(lp680
+tp681
+tp682
+baa(lp683
+S'Comments'
+p684
+ag13
+(g14
+g15
+g16
+g17
+tp685
+Rp686
+(I1
+(I11
+tp687
+g58
+I00
+(lp688
+S'From new raw data'
+p689
+aS'From new raw data'
+p690
+aS'From new raw data'
+p691
+aS'From new raw data'
+p692
+aS'From new raw data'
+p693
+aS'From new raw data'
+p694
+aS'From new raw data'
+p695
+aS'From new raw data'
+p696
+aS'From new raw data'
+p697
+aS'From new raw data'
+p698
+aS'Averaged from previously published data'
+p699
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p700
+g29
+(g30
+(I0
+tp701
+g17
+tp702
+Rp703
+(I1
+(tg58
+I00
+(lp704
+g82
+atp705
+b(g684
+NNVOther information from the published source or from NED that may be helpful in interpreting or qualifying the data.
+p706
+g9
+((lp707
+(lp708
+g44
+aVmeta.note;comment
+p709
+aatp710
+Rp711
+(lp712
+tp713
+tp714
+baatp715
+Rp716
+(dp717
+Vdescription
+p718
+VPublished and Homogenized [Frequency, Flux Density] Units
+p719
+sVname
+p720
+VPhotometric Data for ESO 288-???042
+p721
+sVID
+p722
+VNED_PhotometricData
+p723
+stp724
+bsS'Type'
+p725
+S'G'
+p726
+sS'Name'
+p727
+cnumpy.core.multiarray
+scalar
+p728
+(g21
+(S'S14'
+p729
+I0
+I1
+tp730
+Rp731
+(I3
+S'|'
+p732
+NNNI14
+I1
+I0
+tp733
+bS'ESO 288-IG 042'
+p734
+tp735
+Rp736
+sS'Coord'
+p737
+(lp738
+g728
+(g111
+S'2\xe6\xae%d\xbft@'
+p739
+tp740
+Rp741
+ag728
+(g111
+S'\x0f\x7fM\xd6\xa8\xa3E\xc0'
+p742
+tp743
+Rp744
+asa(dp745
+g2
+F915.0
+sg3
+g4
+(g5
+g6
+Ntp746
+Rp747
+(g9
+((lp748
+(lp749
+S'No.'
+p750
+ag13
+(g14
+g15
+g16
+g17
+tp751
+Rp752
+(I1
+(I64
+tp753
+g24
+I00
+S'\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00\x05\x00\x00\x00\x06\x00\x00\x00\x07\x00\x00\x00\x08\x00\x00\x00\t\x00\x00\x00\n\x00\x00\x00\x0b\x00\x00\x00\x0c\x00\x00\x00\r\x00\x00\x00\x0e\x00\x00\x00\x0f\x00\x00\x00\x10\x00\x00\x00\x11\x00\x00\x00\x12\x00\x00\x00\x13\x00\x00\x00\x14\x00\x00\x00\x15\x00\x00\x00\x16\x00\x00\x00\x17\x00\x00\x00\x18\x00\x00\x00\x19\x00\x00\x00\x1a\x00\x00\x00\x1b\x00\x00\x00\x1c\x00\x00\x00\x1d\x00\x00\x00\x1e\x00\x00\x00\x1f\x00\x00\x00 \x00\x00\x00!\x00\x00\x00"\x00\x00\x00#\x00\x00\x00$\x00\x00\x00%\x00\x00\x00&\x00\x00\x00\'\x00\x00\x00(\x00\x00\x00)\x00\x00\x00*\x00\x00\x00+\x00\x00\x00,\x00\x00\x00-\x00\x00\x00.\x00\x00\x00/\x00\x00\x000\x00\x00\x001\x00\x00\x002\x00\x00\x003\x00\x00\x004\x00\x00\x005\x00\x00\x006\x00\x00\x007\x00\x00\x008\x00\x00\x009\x00\x00\x00:\x00\x00\x00;\x00\x00\x00<\x00\x00\x00=\x00\x00\x00>\x00\x00\x00?\x00\x00\x00@\x00\x00\x00'
+p754
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p755
+g29
+(g30
+(I0
+tp756
+g17
+tp757
+Rp758
+(I1
+(tg36
+I00
+S'?B\x0f\x00'
+p759
+tp760
+b(g750
+NNVA sequential number of Photometry Measurement for this object, applicable to this list only.
+p761
+g9
+((lp762
+(lp763
+g44
+aVmeta.number;phot.mag
+p764
+aatp765
+Rp766
+(lp767
+tp768
+tp769
+baa(lp770
+S'Observed Passband'
+p771
+ag13
+(g14
+g15
+g16
+g17
+tp772
+Rp773
+(I1
+(I64
+tp774
+g58
+I00
+(lp775
+S'B (B_T)'
+p776
+aS'B (m_B)'
+p777
+aS'B (B_T^0)'
+p778
+aS'B (Cousins) (B_T)'
+p779
+aS'B (Cousins) (B_25)'
+p780
+aS'B (Cousins) (B_26)'
+p781
+aS'b_J'
+p782
+aS'B_J'
+p783
+aS'V (Johnson)'
+p784
+aS'V (Johnson)'
+p785
+aS'V (Johnson)'
+p786
+aS'V (Johnson)'
+p787
+aS'R (Cousins) (R_T)'
+p788
+aS'R (Cousins) (R_25)'
+p789
+aS'R (Cousins) (R_26)'
+p790
+ag70
+aS'H{alpha} (CTIO)'
+p791
+aS"R' (Johnson)"
+p792
+aS"R' (Johnson)"
+p793
+aS"R' (Johnson)"
+p794
+aS"R' (Johnson)"
+p795
+aS'I_t_ (Kron-Cousins)'
+p796
+ag71
+ag71
+ag71
+aS"I' (Johnson)"
+p797
+aS"I' (Johnson)"
+p798
+aS"I' (Johnson)"
+p799
+aS"I' (Johnson)"
+p800
+aS'J (2MASS/CTIO)'
+p801
+aS'J (2MASS/CTIO)'
+p802
+aS'J (2MASS/CTIO)'
+p803
+aS'J_20 (2MASS LGA)'
+p804
+aS'J_Kron (2MASS LGA)'
+p805
+aS'J_tot (2MASS LGA)'
+p806
+aS'J_14arcsec (2MASS)'
+p807
+aS'H_20 (2MASS LGA)'
+p808
+aS'H_Kron (2MASS LGA)'
+p809
+aS'H_tot (2MASS LGA)'
+p810
+aS'H_14arcsec (2MASS)'
+p811
+aS'H (2MASS/CTIO)'
+p812
+aS'H (2MASS/CTIO)'
+p813
+aS'H (2MASS/CTIO)'
+p814
+aS'K_s (2MASS/CTIO)'
+p815
+aS'K_s (2MASS/CTIO)'
+p816
+aS'K_s_14arcsec (2MASS)'
+p817
+aS'K_Kron (2MASS LGA)'
+p818
+aS'K_20 (2MASS LGA)'
+p819
+aS'K_tot (2MASS LGA)'
+p820
+aS'12 microns (IRAS)'
+p821
+aS'12 microns (IRAS)'
+p822
+aS'25 microns (IRAS)'
+p823
+aS'25 microns (IRAS)'
+p824
+aS'60 microns (IRAS)'
+p825
+aS'60 microns (IRAS)'
+p826
+aS'FIR (IRAS)'
+p827
+aS'100 microns (IRAS)'
+p828
+aS'100 microns (IRAS)'
+p829
+aS'HI (21 cm line)'
+p830
+aS'HI 21cm line Parkes'
+p831
+aS'HI line (Parkes)'
+p832
+aS'HI (21 cm line)'
+p833
+aS'HI (21 cm line)'
+p834
+aS'HI (21 cm line)'
+p835
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p836
+g29
+(g30
+(I0
+tp837
+g17
+tp838
+Rp839
+(I1
+(tg58
+I00
+(lp840
+g29
+(g30
+(I0
+tp841
+g17
+tp842
+Rp843
+(I1
+(tg58
+I00
+(lp844
+g82
+atp845
+batp846
+b(g771
+NNVColloquial descriptions of the frequency or wavelength at which the data were collected, identifying the bandpass by name e.g., "V","1.4GHz", "6 cm", "HI", etc.
+p847
+g9
+((lp848
+(lp849
+g44
+aVinstr.bandpass
+p850
+aatp851
+Rp852
+(lp853
+tp854
+tp855
+baa(lp856
+S'Photometry Measurement'
+p857
+ag13
+(g14
+g15
+g16
+g17
+tp858
+Rp859
+(I1
+(I64
+tp860
+g101
+I00
+S'\x9a\x99\x99\x99\x99\x99&@=\n\xd7\xa3p=\'@\x00\x00\x00\x00\x00\x00&@\x8f\xc2\xf5(\\\x0f\'@{\x14\xaeG\xe1z\'@\xc3\xf5(\\\x8fB\'@\xecQ\xb8\x1e\x85k,@\x9aw\x9c\xa2#9&@R\xb8\x1e\x85\xebQ&@=\n\xd7\xa3p=(@\x85\xebQ\xb8\x1e\x85(@fffff\xe6&@\xecQ\xb8\x1e\x85k%@33333\xb3%@\xf6(\\\x8f\xc2u%@S\x05\xa3\x92:a\'@\xc3\xf5(\\\x8fB\'\xc0\xa4p=\n\xd7\xa3\'@\\\x8f\xc2\xf5(\\\'@\xd7\xa3p=\nW%@\xaeG\xe1z\x14.&@\xf6(\\\x8f\xc2\xf5%@\x92\\\xfeC\xfam\'@\xe1z\x14\xaeGa%@R\xb8\x1e\x85\xeb\xd1%@\xe1z\x14\xaeG\xe1$@\xc3\xf5(\\\x8fB&@\x85\xebQ\xb8\x1e\x85#@\xb8\x1e\x85\xebQ\xb8%@D\x8bl\xe7\xfbI0@\x00\x00\x00\x00\x00\x00\xf8\x7f\xe3\xa5\x9b\xc4 0.@Zd;\xdfO\r\'@\xf8S\xe3\xa5\x9b\x84%@\xf2\xd2Mb\x10\x18&@\xe5\xd0"\xdb\xf9~+@m\xe7\xfb\xa9\xf1\xd2%@\xc7K7\x89A`$@h\x91\xed|?\xf5$@?5^\xbaIL*@\x9c\xc4 \xb0r\xe8,@\x00\x00\x00\x00\x00\x00\xf8\x7f\x0c\x02+\x87\x16\x99/@\x00\x00\x00\x00\x00\x00\xf8\x7f\x00\x00\x00\x00\x00\x00\xf8\x7fJ\x0c\x02+\x87\xd6)@\xd3Mb\x10X\xb9#@\xe7\xfb\xa9\xf1\xd2M%@J\x0c\x02+\x87V$@333333\xc3?\x00\x00\x00\x00\x00\x00\xf8\x7f\x00\x00\x00\x00\x00\x00\xf8\x7f\x00\x00\x00\x00\x00\x00\xf8\x7fxz\xa5,C\x1c\xe9?\xb8\x1e\x85\xebQ\xb8\xf6?; \xd8\xcd\xdc\xbd8={\x14\xaeG\xe1z\n@\x9c\xc4 \xb0rh\t@\xecQ\xb8\x1e\x85\xeb\'@\x00\x00\x00\x00\x00\xb0d@fffff\x06e@\x1f\x85\xebQ\xb8Vf@\xcd\xcc\xcc\xcc\xcc\xbcd@\xcd\xcc\xcc\xcc\xcc\xacc@'
+p861
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x01\x00\x00\x00\x00\x00\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p862
+g29
+(g30
+(I0
+tp863
+g17
+tp864
+Rp865
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p866
+tp867
+b(g857
+NV{!r:>}
+p868
+VThe published photometry or fluxes  for this point.
+p869
+g9
+((lp870
+(lp871
+g44
+aVphot
+p872
+aatp873
+Rp874
+(lp875
+tp876
+tp877
+baa(lp878
+S'Uncertainty'
+p879
+ag13
+(g14
+g15
+g16
+g17
+tp880
+Rp881
+(I1
+(I64
+tp882
+g58
+I00
+(lp883
+S'+/-0.20'
+p884
+aS'+/-0.16'
+p885
+ag136
+aS'+/-0.09'
+p886
+aS'+/-0.09'
+p887
+aS'+/-0.09'
+p888
+aS'+/-0.12'
+p889
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'+/-0.09'
+p890
+aS'+/-0.09'
+p891
+aS'+/-0.09'
+p892
+ag136
+aS'+/-0.07'
+p893
+ag136
+ag136
+ag136
+ag136
+aS'+/-5   %'
+p894
+ag136
+ag136
+aS'+/-0.06'
+p895
+ag136
+ag136
+ag136
+ag136
+aS'+/-0.224'
+p896
+aS'>15.146'
+p897
+aS'+/-0.06'
+p898
+aS'+/-0.033'
+p899
+aS'+/-0.040'
+p900
+aS'+/-0.037'
+p901
+aS'+/-0.049'
+p902
+aS'+/-0.045'
+p903
+aS'+/-0.058'
+p904
+aS'+/-0.053'
+p905
+aS'+/-0.069'
+p906
+aS'+/-0.081'
+p907
+aS'>14.34'
+p908
+aS'+/-0.314'
+p909
+aS'>14.161'
+p910
+aS'>14.117'
+p911
+aS'+/-0.090'
+p912
+aS'+/-0.069'
+p913
+aS'+/-0.056'
+p914
+aS'+/-0.063'
+p915
+aS'+/-25  %'
+p916
+aS'<8.574E-02'
+p917
+aS'<0.10'
+p918
+aS'<6.206E-02'
+p919
+aS'+/-7   %'
+p920
+aS'+/-25  %'
+p921
+ag136
+aS'+/-25  %'
+p922
+aS'+/-7   %'
+p923
+aS'+/-0.20'
+p924
+aS'+/-12.0'
+p925
+ag136
+ag136
+ag136
+aS'+/-0.94'
+p926
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p927
+g29
+(g30
+(I0
+tp928
+g17
+tp929
+Rp930
+(I1
+(tg58
+I00
+(lp931
+g82
+atp932
+b(g879
+NNVThe published uncertainty for photometric data.
+p933
+g9
+((lp934
+(lp935
+g44
+aVstat.error;phot
+p936
+aatp937
+Rp938
+(lp939
+tp940
+tp941
+baa(lp942
+S'Units'
+p943
+ag13
+(g14
+g15
+g16
+g17
+tp944
+Rp945
+(I1
+(I64
+tp946
+g58
+I00
+(lp947
+S'mag'
+p948
+aS'mag'
+p949
+aS'mag'
+p950
+aS'mag'
+p951
+aS'mag'
+p952
+aS'mag'
+p953
+aS'mag'
+p954
+aS'mag'
+p955
+aS'mag'
+p956
+aS'mag'
+p957
+aS'mag'
+p958
+aS'mag'
+p959
+aS'mag'
+p960
+aS'mag'
+p961
+aS'mag'
+p962
+aS'mag'
+p963
+aS'log(erg/cm^2^/s)'
+p964
+aS'mag'
+p965
+aS'mag'
+p966
+aS'mag'
+p967
+aS'mag'
+p968
+aS'mag'
+p969
+aS'mag'
+p970
+aS'mag'
+p971
+aS'mag'
+p972
+aS'mag'
+p973
+aS'mag'
+p974
+aS'mag'
+p975
+aS'mag'
+p976
+aS'mag'
+p977
+aS'mag'
+p978
+aS'mag'
+p979
+aS'mag'
+p980
+aS'mag'
+p981
+aS'mag'
+p982
+aS'mag'
+p983
+aS'mag'
+p984
+aS'mag'
+p985
+aS'mag'
+p986
+aS'mag'
+p987
+aS'mag'
+p988
+aS'mag'
+p989
+aS'mag'
+p990
+aS'mag'
+p991
+aS'mag'
+p992
+aS'mag'
+p993
+aS'mag'
+p994
+aS'mag'
+p995
+aS'mag'
+p996
+aS'Jy'
+p997
+aS'Jy'
+p998
+aS'Jy'
+p999
+aS'Jy'
+p1000
+aS'Jy'
+p1001
+aS'Jy'
+p1002
+aS'W m^-2^'
+p1003
+aS'Jy'
+p1004
+aS'Jy'
+p1005
+aS'm_21 mag'
+p1006
+aS'Jy km/s'
+p1007
+aS'Jy km s^-1^'
+p1008
+aS'Jy km s^-1^'
+p1009
+aS'Jy km s^-1^'
+p1010
+aS'Jy km s^-1^'
+p1011
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1012
+g29
+(g30
+(I0
+tp1013
+g17
+tp1014
+Rp1015
+(I1
+(tg58
+I00
+(lp1016
+g82
+atp1017
+b(g943
+NNVUnits of photometry measurement for this point.
+p1018
+g9
+((lp1019
+(lp1020
+g44
+aVmeta.unit;phot
+p1021
+aatp1022
+Rp1023
+(lp1024
+tp1025
+tp1026
+baa(lp1027
+S'Frequency'
+p1028
+ag13
+(g14
+g15
+g16
+g17
+tp1029
+Rp1030
+(I1
+(I64
+tp1031
+g101
+I00
+S'\x00\x80\xbcX\xedZ\x03C\x00\x80\xbcX\xedZ\x03C\x00\x80\xbcX\xedZ\x03C\x00\x80\xbcX\xedZ\x03C\x00\x80\xbcX\xedZ\x03C\x00\x80\xbcX\xedZ\x03C\x00\x80h\x8a\xe37\x02C\x00\x80h\x8a\xe37\x02C\x00\x00~W#\xcf\xfeB\x00\x00~W#\xcf\xfeB\x00\x00~W#\xcf\xfeB\x00\x00~W#\xcf\xfeB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x99\xaa9\xfa\xf9B\x00\x00\xc0\rBw\xf9B\x00\x00\xc0\rBw\xf9B\x00\x00\xc0\rBw\xf9B\x00\x00\xc0\rBw\xf9B\x00\x00<P\xba\x99\xf5B\x00\x00\xeb\x05-\x8b\xf5B\x00\x00\xeb\x05-\x8b\xf5B\x00\x00\xeb\x05-\x8b\xf5B\x00\x00\xa7\xdc\xf7P\xf5B\x00\x00\xa7\xdc\xf7P\xf5B\x00\x00\xa7\xdc\xf7P\xf5B\x00\x00\xa7\xdc\xf7P\xf5B\x00\x00\xc6\x15;\xa0\xebB\x00\x00\xc6\x15;\xa0\xebB\x00\x00\xc6\x15;\xa0\xebB\x00\x00\xe0W\xebH\xebB\x00\x00\xe0W\xebH\xebB\x00\x00\xe0W\xebH\xebB\x00\x00\xe0W\xebH\xebB\x00\x00,\xab\xe5\xb0\xe4B\x00\x00,\xab\xe5\xb0\xe4B\x00\x00,\xab\xe5\xb0\xe4B\x00\x00,\xab\xe5\xb0\xe4B\x00\x00\xe8\x81\xb0v\xe4B\x00\x00\xe8\x81\xb0v\xe4B\x00\x00\xe8\x81\xb0v\xe4B\x00\x00\xecg\xdd\x9a\xdfB\x00\x00\xecg\xdd\x9a\xdfB\x00\x00\xa8>\xa8`\xdfB\x00\x00\xa8>\xa8`\xdfB\x00\x00\xa8>\xa8`\xdfB\x00\x00\xa8>\xa8`\xdfB\x00\x00\x90\x1e\xc4\xbc\xb6B\x00\x00\x90\x1e\xc4\xbc\xb6B\x00\x00\x80y\xef\xd3\xa5B\x00\x00\x80y\xef\xd3\xa5B\x00\x00@\xe5\x9c0\x92B\x00\x00@\xe5\x9c0\x92B\x00\x00`\xe2fi\x8aB\x00\x00\x80y\xef\xd3\x85B\x00\x00\x80y\xef\xd3\x85B\x00\x00\x00\xc0\xde(\xd5A\x00\x00\x00\xc0\xde(\xd5A\x00\x00\x00\xc0\xde(\xd5A\x00\x00\x00\xc0\xde(\xd5A\x00\x00\x00\xc0\xde(\xd5A\x00\x00\x00\xc0\xde(\xd5A'
+p1032
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1033
+g29
+(g30
+(I0
+tp1034
+g17
+tp1035
+Rp1036
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p1037
+tp1038
+b(g1028
+g201
+V{!r:>}
+p1039
+VThe frequency, wavelength, or photometric passband, in absolute units as calculated by NED
+p1040
+g9
+((lp1041
+(lp1042
+g44
+aVem.freq
+p1043
+aatp1044
+Rp1045
+(lp1046
+tp1047
+tp1048
+baa(lp1049
+S'NED Photometry Measurement'
+p1050
+ag13
+(g14
+g15
+g16
+g17
+tp1051
+Rp1052
+(I1
+(I64
+tp1053
+g101
+I00
+S'P\x8d\x97n\x12\x83\xc0?\xd8\xf0\xf4JY\x86\xb8?\xc3\xf5(\\\x8f\xc2\xc5?9\xb4\xc8v\xbe\x9f\xba?\'\xa0\x89\xb0\xe1\xe9\xb5?tF\x94\xf6\x06_\xb8?T\xa9\xd9\x03\xad\xc0\x80?\x93\x18\x04V\x0e-\xc2?\x00\x00\x00\x00\x00\x00\xc0?\xd5\th"lx\xaa?\x91\x0fz6\xab>\xa7?\xc7):\x92\xcb\x7f\xb8?{\x14\xaeG\xe1z\xc4?\xecQ\xb8\x1e\x85\xeb\xc1?\x7fj\xbct\x93\x18\xc4?\xa4p=\n\xd7\xa3\xb0?\x00\x00\x00R\xbe=KB9\xb4\xc8v\xbe\x9f\xaa?\xac\xad\xd8_vO\xae?333333\xc3?\xe9&1\x08\xac\x1c\xba?Nb\x10X9\xb4\xb8?\x03\t\x8a\x1fc\xee\xaa?H\xe1z\x14\xaeG\xc1?)\\\x8f\xc2\xf5(\xbc?\xdfO\x8d\x97n\x12\xc3?\xe4\x14\x1d\xc9\xe5?\xb4?B`\xe5\xd0"\xdb\xd1?B`\xe5\xd0"\xdb\xb9?\xfa`\x19\x1b\xba\xd9??\x00\x00\x00\x00\x00\x00\xf8\x7f\xb2c#\x10\xaf\xebW?+\x87\x16\xd9\xce\xf7\xa3?\xe4\x14\x1d\xc9\xe5?\xb4?\xa3\x01\xbc\x05\x12\x14\xaf?M\xdb\xbf\xb2\xd2\xa4t?\xfee\xf7\xe4a\xa1\xa6?{\x83/L\xa6\n\xb6?;p\xce\x88\xd2\xde\xb0?\xe4\x0f\x06\x9e{\x0fw?\x8e@\xbc\xae_\xb0[?\x00\x00\x00\x00\x00\x00\xf8\x7fOw\x9ex\xce\x16@?\x00\x00\x00\x00\x00\x00\xf8\x7f\x00\x00\x00\x00\x00\x00\xf8\x7fY4\x9d\x9d\x0c\x8er?\xa9\xa4N@\x13a\xb3?\x054\x116<\xbd\xa2?\xea\x044\x116<\xad?333333\xc3?\x00\x00\x00\x00\x00\x00\xf8\x7f\x00\x00\x00\x00\x00\x00\xf8\x7f\x00\x00\x00\x00\x00\x00\xf8\x7f\x1f\x85\xebQ\xb8\x1e\xe9?\xb8\x1e\x85\xebQ\xb8\xf6?\\\x8f\xc2\xf5(\\\x03@{\x14\xaeG\xe1z\n@q=\n\xd7\xa3p\t@\x00\x00\x00\x00`\xe9%A\x00\x00\x00\x00\xf0\xc5\'A\x00\x00\x00\x00 ;(A\x00\x00\x00\x00\xc0\xc1)A\x00\x00\x00\x00\x90\xd5\'A\x00\x00\x00\x00\x10\x9d&A'
+p1054
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x01\x00\x00\x00\x00\x00\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1055
+g29
+(g30
+(I0
+tp1056
+g17
+tp1057
+Rp1058
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p1059
+tp1060
+b(g1050
+g275
+V{!r:>}
+p1061
+VFlux/Photometric data for this point as transformed and stored by NED.
+p1062
+g9
+((lp1063
+(lp1064
+g44
+aVphot
+p1065
+aatp1066
+Rp1067
+(lp1068
+tp1069
+tp1070
+baa(lp1071
+S'NED Uncertainty'
+p1072
+ag13
+(g14
+g15
+g16
+g17
+tp1073
+Rp1074
+(I1
+(I64
+tp1075
+g58
+I00
+(lp1076
+S'+/-2.60E-02'
+p1077
+aS'+/-1.52E-02'
+p1078
+ag136
+aS'+/-8.97E-03'
+p1079
+aS'+/-7.40E-03'
+p1080
+aS'+/-8.22E-03'
+p1081
+aS'+/-9.56E-04'
+p1082
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'+/-1.38E-02'
+p1083
+aS'+/-1.21E-02'
+p1084
+aS'+/-1.36E-02'
+p1085
+ag136
+aS'+/-3.78E+10'
+p1086
+ag136
+ag136
+ag136
+ag136
+aS'+/-4.83E-03'
+p1087
+ag136
+ag136
+aS'+/-6.10E-03'
+p1088
+ag136
+ag136
+ag136
+ag136
+aS'+/-1.00E-04'
+p1089
+aS'1.39E-03'
+p1090
+aS'+/-8.08E-05'
+p1091
+aS'+/-1.20E-03'
+p1092
+aS'+/-2.97E-03'
+p1093
+aS'+/-2.10E-03'
+p1094
+aS'+/-2.33E-04'
+p1095
+aS'+/-1.87E-03'
+p1096
+aS'+/-4.73E-03'
+p1097
+aS'+/-3.30E-03'
+p1098
+aS'+/-3.70E-04'
+p1099
+aS'+/-1.26E-04'
+p1100
+aS'1.88E-03'
+p1101
+aS'+/-1.42E-04'
+p1102
+aS'1.44E-03'
+p1103
+aS'1.50E-03'
+p1104
+aS'+/-3.92E-04'
+p1105
+aS'+/-4.97E-03'
+p1106
+aS'+/-1.94E-03'
+p1107
+aS'+/-3.41E-03'
+p1108
+aS'+/-3.75E-02'
+p1109
+aS'8.57E-02'
+p1110
+aS'1.00E-01'
+p1111
+aS'6.21E-02'
+p1112
+aS'+/-5.49E-02'
+p1113
+aS'+/-3.55E-01'
+p1114
+ag136
+aS'+/-8.28E-01'
+p1115
+aS'+/-2.22E-01'
+p1116
+aS'+/-1.45E+05'
+p1117
+aS'+/-5.65E+04'
+p1118
+ag136
+ag136
+ag136
+aS'+/-4.42E+03'
+p1119
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1120
+g29
+(g30
+(I0
+tp1121
+g17
+tp1122
+Rp1123
+(I1
+(tg58
+I00
+(lp1124
+g82
+atp1125
+b(g1072
+NNVPhotometric/Flux uncertainty as transformed and stored by NED.
+p1126
+g9
+((lp1127
+(lp1128
+g44
+aVstat.error;phot
+p1129
+aatp1130
+Rp1131
+(lp1132
+tp1133
+tp1134
+baa(lp1135
+S'NED Units'
+p1136
+ag13
+(g14
+g15
+g16
+g17
+tp1137
+Rp1138
+(I1
+(I64
+tp1139
+g58
+I00
+(lp1140
+S'Jy'
+p1141
+aS'Jy'
+p1142
+aS'Jy'
+p1143
+aS'Jy'
+p1144
+aS'Jy'
+p1145
+aS'Jy'
+p1146
+aS'Jy'
+p1147
+aS'Jy'
+p1148
+aS'Jy'
+p1149
+aS'Jy'
+p1150
+aS'Jy'
+p1151
+aS'Jy'
+p1152
+aS'Jy'
+p1153
+aS'Jy'
+p1154
+aS'Jy'
+p1155
+aS'Jy'
+p1156
+aS'Jy-Hz'
+p1157
+aS'Jy'
+p1158
+aS'Jy'
+p1159
+aS'Jy'
+p1160
+aS'Jy'
+p1161
+aS'Jy'
+p1162
+aS'Jy'
+p1163
+aS'Jy'
+p1164
+aS'Jy'
+p1165
+aS'Jy'
+p1166
+aS'Jy'
+p1167
+aS'Jy'
+p1168
+aS'Jy'
+p1169
+aS'Jy'
+p1170
+aS'Jy'
+p1171
+aS'Jy'
+p1172
+aS'Jy'
+p1173
+aS'Jy'
+p1174
+aS'Jy'
+p1175
+aS'Jy'
+p1176
+aS'Jy'
+p1177
+aS'Jy'
+p1178
+aS'Jy'
+p1179
+aS'Jy'
+p1180
+aS'Jy'
+p1181
+aS'Jy'
+p1182
+aS'Jy'
+p1183
+aS'Jy'
+p1184
+aS'Jy'
+p1185
+aS'Jy'
+p1186
+aS'Jy'
+p1187
+aS'Jy'
+p1188
+aS'Jy'
+p1189
+aS'Jy'
+p1190
+aS'Jy'
+p1191
+aS'Jy'
+p1192
+aS'Jy'
+p1193
+aS'Jy'
+p1194
+aS'Jy'
+p1195
+aS'Jy'
+p1196
+aS'Jy'
+p1197
+aS'Jy'
+p1198
+aS'Jy-Hz'
+p1199
+aS'Jy-Hz'
+p1200
+aS'Jy-Hz'
+p1201
+aS'Jy-Hz'
+p1202
+aS'Jy-Hz'
+p1203
+aS'Jy-Hz'
+p1204
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1205
+g29
+(g30
+(I0
+tp1206
+g17
+tp1207
+Rp1208
+(I1
+(tg58
+I00
+(lp1209
+g82
+atp1210
+b(g1136
+NNVAbsolute units of photometry measurement for this point.
+p1211
+g9
+((lp1212
+(lp1213
+g44
+aVmeta.unit;phot
+p1214
+aatp1215
+Rp1216
+(lp1217
+tp1218
+tp1219
+baa(lp1220
+S'Refcode'
+p1221
+ag13
+(g14
+g15
+g16
+g17
+tp1222
+Rp1223
+(I1
+(I64
+tp1224
+g58
+I00
+(lp1225
+S'1991RC3.9.C...0000d'
+p1226
+aS'1991RC3.9.C...0000d'
+p1227
+aS'1991RC3.9.C...0000d'
+p1228
+aS'1989ESOLV.C...0000L'
+p1229
+aS'1989ESOLV.C...0000L'
+p1230
+aS'1989ESOLV.C...0000L'
+p1231
+aS'1990MNRAS.243..692M'
+p1232
+aS'2005MNRAS.361...34D'
+p1233
+aS'1988VIrPh.C...0000d'
+p1234
+aS'1988VIrPh.C...0000d'
+p1235
+aS'1988VIrPh.C...0000d'
+p1236
+aS'1988VIrPh.C...0000d'
+p1237
+aS'1989ESOLV.C...0000L'
+p1238
+aS'1989ESOLV.C...0000L'
+p1239
+aS'1989ESOLV.C...0000L'
+p1240
+aS'2005MNRAS.361...34D'
+p1241
+aS'2006ApJS..165..307M'
+p1242
+aS'1988VIrPh.C...0000d'
+p1243
+aS'1988VIrPh.C...0000d'
+p1244
+aS'1988VIrPh.C...0000d'
+p1245
+aS'1988VIrPh.C...0000d'
+p1246
+aS'1996ApJS..107...97M'
+p1247
+aS'2005MNRAS.361...34D'
+p1248
+aS'2007ApJS..172..599S'
+p1249
+aS'2007ApJS..172..599S'
+p1250
+aS'1988VIrPh.C...0000d'
+p1251
+aS'1988VIrPh.C...0000d'
+p1252
+aS'1988VIrPh.C...0000d'
+p1253
+aS'1988VIrPh.C...0000d'
+p1254
+aS'2006AJ....131.1163S'
+p1255
+aS'2006AJ....131.1163S'
+p1256
+aS'2006AJ....131.1163S'
+p1257
+aS'2003AJ....125..525J'
+p1258
+aS'2003AJ....125..525J'
+p1259
+aS'2003AJ....125..525J'
+p1260
+aS'20032MASX.C.......:'
+p1261
+aS'2003AJ....125..525J'
+p1262
+aS'2003AJ....125..525J'
+p1263
+aS'2003AJ....125..525J'
+p1264
+aS'20032MASX.C.......:'
+p1265
+aS'2006AJ....131.1163S'
+p1266
+aS'2006AJ....131.1163S'
+p1267
+aS'2006AJ....131.1163S'
+p1268
+aS'2006AJ....131.1163S'
+p1269
+aS'2006AJ....131.1163S'
+p1270
+aS'20032MASX.C.......:'
+p1271
+aS'2003AJ....125..525J'
+p1272
+aS'2003AJ....125..525J'
+p1273
+aS'2003AJ....125..525J'
+p1274
+aS'1988ApJS...68...91R'
+p1275
+aS'1990IRASF.C...0000M'
+p1276
+aS'1988ApJS...68...91R'
+p1277
+aS'1990IRASF.C...0000M'
+p1278
+aS'1990IRASF.C...0000M'
+p1279
+aS'1988ApJS...68...91R'
+p1280
+aS'1988ApJS...68...91R'
+p1281
+aS'1988ApJS...68...91R'
+p1282
+aS'1990IRASF.C...0000M'
+p1283
+aS'1991RC3.9.C...0000d'
+p1284
+aS'2004AJ....128...16K'
+p1285
+aS'2005MNRAS.361...34D'
+p1286
+aS'1996ApJS..107...97M'
+p1287
+aS'1989H&RHI.C...0000H'
+p1288
+aS'1989H&RHI.C...0000H'
+p1289
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1290
+g29
+(g30
+(I0
+tp1291
+g17
+tp1292
+Rp1293
+(I1
+(tg58
+I00
+(lp1294
+g82
+atp1295
+b(g1221
+NNVThe NED 19-digit Bibliographic Reference code.
+p1296
+g9
+((lp1297
+(lp1298
+g44
+aVmeta.bib.bibcode
+p1299
+aatp1300
+Rp1301
+(lp1302
+tp1303
+tp1304
+baa(lp1305
+S'Significance'
+p1306
+ag13
+(g14
+g15
+g16
+g17
+tp1307
+Rp1308
+(I1
+(I64
+tp1309
+g58
+I00
+(lp1310
+S'rms uncertainty'
+p1311
+aS'rms uncertainty'
+p1312
+aS'no uncertainty reported'
+p1313
+aS'typical accuracy'
+p1314
+aS'typical accuracy'
+p1315
+aS'typical accuracy'
+p1316
+aS'rms uncertainty'
+p1317
+aS'no uncertainty reported'
+p1318
+aS'no uncertainty reported'
+p1319
+aS'no uncertainty reported'
+p1320
+aS'no uncertainty reported'
+p1321
+aS'no uncertainty reported'
+p1322
+aS'typical accuracy'
+p1323
+aS'typical accuracy'
+p1324
+aS'typical accuracy'
+p1325
+aS'no uncertainty reported'
+p1326
+aS'uncertainty'
+p1327
+aS'no uncertainty reported'
+p1328
+aS'no uncertainty reported'
+p1329
+aS'no uncertainty reported'
+p1330
+aS'no uncertainty reported'
+p1331
+aS'estimated error'
+p1332
+aS'no uncertainty reported'
+p1333
+aS'no uncertainty reported'
+p1334
+aS'uncertainty'
+p1335
+aS'no uncertainty reported'
+p1336
+aS'no uncertainty reported'
+p1337
+aS'no uncertainty reported'
+p1338
+aS'no uncertainty reported'
+p1339
+aS'uncertainty'
+p1340
+aS'95% confidence'
+p1341
+aS'uncertainty'
+p1342
+aS'1 sigma uncert.'
+p1343
+aS'1 sigma uncert.'
+p1344
+aS'1 sigma uncert.'
+p1345
+aS'1 sigma uncert.'
+p1346
+aS'1 sigma uncert.'
+p1347
+aS'1 sigma uncert.'
+p1348
+aS'1 sigma uncert.'
+p1349
+aS'1 sigma uncert.'
+p1350
+aS'uncertainty'
+p1351
+aS'95% confidence'
+p1352
+aS'uncertainty'
+p1353
+aS'95% confidence'
+p1354
+aS'95% confidence'
+p1355
+aS'1 sigma uncert.'
+p1356
+aS'1 sigma uncert.'
+p1357
+aS'1 sigma uncert.'
+p1358
+aS'1 sigma uncert.'
+p1359
+aS'uncertainty'
+p1360
+aS'90% confidence'
+p1361
+aS'3 times noise'
+p1362
+aS'90% confidence'
+p1363
+aS'uncertainty'
+p1364
+aS'uncertainty'
+p1365
+aS'no uncertainty reported'
+p1366
+aS'uncertainty'
+p1367
+aS'uncertainty'
+p1368
+aS'rms uncertainty'
+p1369
+aS'uncertainty'
+p1370
+aS'no uncertainty reported'
+p1371
+aS'no uncertainty reported'
+p1372
+aS'no uncertainty reported'
+p1373
+aS'no uncertainty reported'
+p1374
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1375
+g29
+(g30
+(I0
+tp1376
+g17
+tp1377
+Rp1378
+(I1
+(tg58
+I00
+(lp1379
+g82
+atp1380
+b(g1306
+NNVType of uncertainty reported in the original publication
+p1381
+g9
+((lp1382
+(lp1383
+g44
+aVmeta.code.error
+p1384
+aatp1385
+Rp1386
+(lp1387
+tp1388
+tp1389
+baa(lp1390
+S'Published frequency'
+p1391
+ag13
+(g14
+g15
+g16
+g17
+tp1392
+Rp1393
+(I1
+(I64
+tp1394
+g58
+I00
+(lp1395
+S'4400       A'
+p1396
+aS'4400       A'
+p1397
+aS'4400       A'
+p1398
+aS'4400       A'
+p1399
+aS'4400       A'
+p1400
+aS'4400       A'
+p1401
+aS'4680      A'
+p1402
+aS'4680   A'
+p1403
+aS'5530   A'
+p1404
+aS'5530   A'
+p1405
+aS'5530   A'
+p1406
+aS'5530   A'
+p1407
+aS'6400       A'
+p1408
+aS'6400       A'
+p1409
+aS'6400       A'
+p1410
+aS'6400   A'
+p1411
+aS'6563   A'
+p1412
+aS'6690   A'
+p1413
+aS'6690   A'
+p1414
+aS'6690   A'
+p1415
+aS'6690   A'
+p1416
+aS'8060       A'
+p1417
+aS'7900   A'
+p1418
+aS'7900 A'
+p1419
+aS'7900 A'
+p1420
+aS'8000   A'
+p1421
+aS'8000   A'
+p1422
+aS'8000   A'
+p1423
+aS'8000   A'
+p1424
+aS'1.235      microns'
+p1425
+aS'1.235      microns'
+p1426
+aS'1.235      microns'
+p1427
+aS'1.25      microns'
+p1428
+aS'1.25      microns'
+p1429
+aS'1.25      microns'
+p1430
+aS'1.25      microns'
+p1431
+aS'1.65      microns'
+p1432
+aS'1.65      microns'
+p1433
+aS'1.65      microns'
+p1434
+aS'1.65      microns'
+p1435
+aS'1.662      microns'
+p1436
+aS'1.662      microns'
+p1437
+aS'1.662      microns'
+p1438
+aS'2.159      microns'
+p1439
+aS'2.159      microns'
+p1440
+aS'2.17      microns'
+p1441
+aS'2.17      microns'
+p1442
+aS'2.17      microns'
+p1443
+aS'2.17      microns'
+p1444
+aS'12   microns'
+p1445
+aS'12        microns'
+p1446
+aS'25   microns'
+p1447
+aS'25        microns'
+p1448
+aS'60        microns'
+p1449
+aS'60   microns'
+p1450
+aS'82.5 microns'
+p1451
+aS'100   microns'
+p1452
+aS'100       microns'
+p1453
+aS'21         cm'
+p1454
+aS'915   km s^-1^'
+p1455
+aS'914.9      km s^-1^'
+p1456
+aS'21         cm'
+p1457
+aS'21         cm'
+p1458
+aS'21         cm'
+p1459
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1460
+g29
+(g30
+(I0
+tp1461
+g17
+tp1462
+Rp1463
+(I1
+(tg58
+I00
+(lp1464
+g82
+atp1465
+b(g1391
+NNVWavelength or frequency  of observation as given in the original publication
+p1466
+g9
+((lp1467
+(lp1468
+g44
+aVmeta.ref;em.freq
+p1469
+aatp1470
+Rp1471
+(lp1472
+tp1473
+tp1474
+baa(lp1475
+S'Frequency Mode'
+p1476
+ag13
+(g14
+g15
+g16
+g17
+tp1477
+Rp1478
+(I1
+(I64
+tp1479
+g58
+I00
+(lp1480
+S'Broad-band measurement'
+p1481
+aS'Broad-band measurement'
+p1482
+aS'Broad-band measurement'
+p1483
+aS'Broad-band measurement; photometric system transformed'
+p1484
+aS'Broad-band measurement; photometric system transformed'
+p1485
+aS'Broad-band measurement; photometric system transformed'
+p1486
+aS'Broad-band measurement'
+p1487
+aS'Broad-band measurement'
+p1488
+aS'Broad-band measurement'
+p1489
+aS'Broad-band measurement'
+p1490
+aS'Broad-band measurement'
+p1491
+aS'Broad-band measurement'
+p1492
+aS'Broad-band measurement; photometric system transformed'
+p1493
+aS'Broad-band measurement; photometric system transformed'
+p1494
+aS'Broad-band measurement; photometric system transformed'
+p1495
+aS'Broad-band measurement'
+p1496
+aS'Line measurement; flux integrated over line'
+p1497
+aS'Broad-band measurement'
+p1498
+aS'Broad-band measurement'
+p1499
+aS'Broad-band measurement'
+p1500
+aS'Broad-band measurement'
+p1501
+aS'Broad-band measurement'
+p1502
+aS'Broad-band measurement'
+p1503
+aS'Broad-band measurement'
+p1504
+aS'Broad-band measurement'
+p1505
+aS'Broad-band measurement'
+p1506
+aS'Broad-band measurement'
+p1507
+aS'Broad-band measurement'
+p1508
+aS'Broad-band measurement'
+p1509
+aS'Broad-band measurement'
+p1510
+aS'Broad-band measurement'
+p1511
+aS'Broad-band measurement'
+p1512
+aS'Broad-band measurement'
+p1513
+aS'Broad-band measurement'
+p1514
+aS'Broad-band measurement'
+p1515
+aS'Broad-band measurement'
+p1516
+aS'Broad-band measurement'
+p1517
+aS'Broad-band measurement'
+p1518
+aS'Broad-band measurement'
+p1519
+aS'Broad-band measurement'
+p1520
+aS'Broad-band measurement'
+p1521
+aS'Broad-band measurement'
+p1522
+aS'Broad-band measurement'
+p1523
+aS'Broad-band measurement'
+p1524
+aS'Broad-band measurement'
+p1525
+aS'Broad-band measurement'
+p1526
+aS'Broad-band measurement'
+p1527
+aS'Broad-band measurement'
+p1528
+aS'Broad-band measurement'
+p1529
+aS'Broad-band measurement'
+p1530
+aS'Broad-band measurement'
+p1531
+aS'Broad-band measurement'
+p1532
+aS'Broad-band measurement'
+p1533
+aS'Broad-band measurement'
+p1534
+aS'Broad-band measurement'
+p1535
+aS'Broad-band measurement; synthetic band'
+p1536
+aS'Broad-band measurement'
+p1537
+aS'Broad-band measurement'
+p1538
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p1539
+aS'Line measurement; flux integrated over line'
+p1540
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p1541
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p1542
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p1543
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p1544
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1545
+g29
+(g30
+(I0
+tp1546
+g17
+tp1547
+Rp1548
+(I1
+(tg58
+I00
+(lp1549
+g82
+atp1550
+b(g1476
+NNVThe method(s) by which the data were collected, reduced, or derived, regarding the frequency or wavelength;
+p1551
+g9
+((lp1552
+(lp1553
+g44
+aVmeta.ref;em.freq;instr.setup
+p1554
+aatp1555
+Rp1556
+(lp1557
+tp1558
+tp1559
+baa(lp1560
+S'Coordinates Targeted'
+p1561
+ag13
+(g14
+g15
+g16
+g17
+tp1562
+Rp1563
+(I1
+(I64
+tp1564
+g58
+I00
+(lp1565
+S'221754.0 -461712 (B1950)'
+p1566
+aS'221754.0 -461712 (B1950)'
+p1567
+aS'221754.0 -461712 (B1950)'
+p1568
+aS'221754 -4617.2 (B1950)'
+p1569
+aS'221754 -4617.2 (B1950)'
+p1570
+aS'221754 -4617.2 (B1950)'
+p1571
+aS'221754.57 -461655.5 (B1950)'
+p1572
+aS'222056.9 -460213.5 (J2000)'
+p1573
+ag136
+ag136
+ag136
+ag136
+aS'221754 -4617.2 (B1950)'
+p1574
+aS'221754 -4617.2 (B1950)'
+p1575
+aS'221754 -4617.2 (B1950)'
+p1576
+aS'222056.9 -460213.5 (J2000)'
+p1577
+aS'22 20 57.3 -46 02 08 (J2000)'
+p1578
+ag136
+ag136
+ag136
+ag136
+aS'221754 -461712 (B1950)'
+p1579
+aS'222056.9 -460213.5 (J2000)'
+p1580
+aS'22 20 57.2 -46 01 52 (J2000)'
+p1581
+aS'22 20 57.2 -46 01 52 (J2000)'
+p1582
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'222057.44 -460209.1 (J2000)'
+p1583
+aS'222057.44 -460209.1 (J2000)'
+p1584
+aS'222057.44 -460209.1 (J2000)'
+p1585
+aS'222057.44 -460209.1 (J2000)'
+p1586
+aS'222057.44 -460209.1 (J2000)'
+p1587
+aS'222057.44 -460209.1 (J2000)'
+p1588
+aS'222057.44 -460209.1 (J2000)'
+p1589
+aS'222057.44 -460209.1 (J2000)'
+p1590
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'222057.44 -460209.1 (J2000)'
+p1591
+aS'222057.44 -460209.1 (J2000)'
+p1592
+aS'222057.44 -460209.1 (J2000)'
+p1593
+aS'222057.44 -460209.1 (J2000)'
+p1594
+ag136
+aS'221752.3 -461759 (B1950)'
+p1595
+ag136
+aS'221752.3 -461759 (B1950)'
+p1596
+aS'221752.3 -461759 (B1950)'
+p1597
+ag136
+ag136
+ag136
+aS'221752.3 -461759 (B1950)'
+p1598
+aS'221754.0 -461712 (B1950)'
+p1599
+aS'22 20 57 -46 02 55 (J2000)'
+p1600
+aS'222057.3 -460226. (J2000)'
+p1601
+aS'221754 -461712 (B1950)'
+p1602
+aS'221818. -461900. (B1950)'
+p1603
+aS'221754. -461700. (B1950)'
+p1604
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1605
+g29
+(g30
+(I0
+tp1606
+g17
+tp1607
+Rp1608
+(I1
+(tg58
+I00
+(lp1609
+g82
+atp1610
+b(g1561
+NNVThe position at which the measurements were taken, followed by the coordinate reference frame (e.g.,  013350.90 +303935.8 (J2000) in format HHMMSS.ss +DDMMSS.s (EQUINOX),  etc.).
+p1611
+g9
+((lp1612
+(lp1613
+g44
+aVpos
+p1614
+aatp1615
+Rp1616
+(lp1617
+tp1618
+tp1619
+baa(lp1620
+S'Spatial Mode'
+p1621
+ag13
+(g14
+g15
+g16
+g17
+tp1622
+Rp1623
+(I1
+(I64
+tp1624
+g58
+I00
+(lp1625
+S'Flux integrated from map'
+p1626
+aS'Multiple methods'
+p1627
+aS'Multiple methods'
+p1628
+aS'Modelled datum'
+p1629
+aS'Modelled datum'
+p1630
+aS'Modelled datum'
+p1631
+aS'Flux integrated from map'
+p1632
+aS'Flux in fixed aperture'
+p1633
+aS'Flux in fixed aperture'
+p1634
+aS'Flux in fixed aperture'
+p1635
+aS'Flux in fixed aperture'
+p1636
+aS'Flux in fixed aperture'
+p1637
+aS'Modelled datum'
+p1638
+aS'Modelled datum'
+p1639
+aS'Modelled datum'
+p1640
+aS'Flux in fixed aperture'
+p1641
+aS'Flux in fixed aperture'
+p1642
+aS'Flux in fixed aperture'
+p1643
+aS'Flux in fixed aperture'
+p1644
+aS'Flux in fixed aperture'
+p1645
+aS'Flux in fixed aperture'
+p1646
+aS'From multi-aperture data'
+p1647
+aS'Flux in fixed aperture'
+p1648
+aS'Total flux'
+p1649
+aS'Total flux'
+p1650
+aS'Flux in fixed aperture'
+p1651
+aS'Flux in fixed aperture'
+p1652
+aS'Flux in fixed aperture'
+p1653
+aS'Flux in fixed aperture'
+p1654
+aS'Flux in fixed aperture'
+p1655
+aS'Flux in fixed aperture'
+p1656
+aS'Flux in fixed aperture'
+p1657
+aS'Flux integrated from map'
+p1658
+aS'Flux integrated from map'
+p1659
+aS'Total flux'
+p1660
+aS'Flux in fixed aperture'
+p1661
+aS'Flux integrated from map'
+p1662
+aS'Flux integrated from map'
+p1663
+aS'Total flux'
+p1664
+aS'Flux in fixed aperture'
+p1665
+aS'Flux in fixed aperture'
+p1666
+aS'Flux in fixed aperture'
+p1667
+aS'Flux in fixed aperture'
+p1668
+aS'Flux in fixed aperture'
+p1669
+aS'Flux in fixed aperture'
+p1670
+aS'Flux in fixed aperture'
+p1671
+aS'Flux integrated from map'
+p1672
+aS'Flux integrated from map'
+p1673
+aS'Total flux'
+p1674
+aS'Flux integrated from map'
+p1675
+aS'Flux in fixed aperture'
+p1676
+aS'Flux integrated from map'
+p1677
+aS'Flux in fixed aperture'
+p1678
+aS'Flux in fixed aperture'
+p1679
+aS'Flux integrated from map'
+p1680
+aS'Flux integrated from map'
+p1681
+aS'Flux integrated from map'
+p1682
+aS'Flux in fixed aperture'
+p1683
+aS'Multiple methods'
+p1684
+aS'Flux integrated from map'
+p1685
+aS'Flux integrated from map'
+p1686
+aS'Integrated from scans; Beam filling or dilution corrected'
+p1687
+aS'Not reported in paper'
+p1688
+aS'Not reported in paper'
+p1689
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1690
+g29
+(g30
+(I0
+tp1691
+g17
+tp1692
+Rp1693
+(I1
+(tg58
+I00
+(lp1694
+g82
+atp1695
+b(g1621
+NNVThe method(s) by which the data were collected, reduced, or derived, regarding the spatially integrated flux
+p1696
+g9
+((lp1697
+(lp1698
+g44
+aVphot.flux;instr.setup
+p1699
+aatp1700
+Rp1701
+(lp1702
+tp1703
+tp1704
+baa(lp1705
+S'Qualifiers'
+p1706
+ag13
+(g14
+g15
+g16
+g17
+tp1707
+Rp1708
+(I1
+(I64
+tp1709
+g58
+I00
+(lp1710
+g136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'261.9" aperture'
+p1711
+aS'134.3" aperture;Low quality data'
+p1712
+aS'134.3" aperture'
+p1713
+aS'261.9" aperture'
+p1714
+ag136
+ag136
+ag136
+ag136
+aS'Corrected for [N II] contamination'
+p1715
+aS'134.3" aperture'
+p1716
+aS'134.3" aperture'
+p1717
+aS'261.9" aperture'
+p1718
+aS'261.9" aperture'
+p1719
+ag136
+ag136
+ag136
+aS'Observed magnitude'
+p1720
+aS'261.9" aperture'
+p1721
+aS'134.3" aperture'
+p1722
+aS'261.9" aperture'
+p1723
+aS'134.3" aperture;Low quality data'
+p1724
+aS'Profile-fit'
+p1725
+ag136
+aS'4" aperture'
+p1726
+aS'98.8 x   25.7 arcsec integration area.'
+p1727
+aS'198.6 x   51.6 arcsec integration area.'
+p1728
+ag136
+aS'14.0 x 14.0 arcsec aperture'
+p1729
+aS'98.8 x   25.7 arcsec integration area.'
+p1730
+aS'198.6 x   51.6 arcsec integration area.'
+p1731
+ag136
+aS'14.0 x 14.0 arcsec aperture'
+p1732
+aS'4" aperture'
+p1733
+ag136
+aS'Profile-fit'
+p1734
+ag136
+ag136
+aS'14.0 x 14.0 arcsec aperture'
+p1735
+aS'198.6 x   51.6 arcsec integration area.'
+p1736
+aS'98.8 x   25.7 arcsec integration area.'
+p1737
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'IRAS quality flag = 3'
+p1738
+ag136
+ag136
+ag136
+aS'IRAS quality flag = 2'
+p1739
+aS'm_21 equiv. to S(HI) = 7.178E-21 W m^-2'
+p1740
+ag136
+ag136
+ag136
+ag136
+ag136
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1741
+g29
+(g30
+(I0
+tp1742
+g17
+tp1743
+Rp1744
+(I1
+(tg58
+I00
+(lp1745
+g82
+atp1746
+b(g1706
+NNVSelf-explanatory notes pertaining to the history of the data or adjustments to the data or hanges introduced by NED
+p1747
+g9
+((lp1748
+(lp1749
+g44
+aVmeta.note;instr.setup
+p1750
+aatp1751
+Rp1752
+(lp1753
+tp1754
+tp1755
+baa(lp1756
+S'Comments'
+p1757
+ag13
+(g14
+g15
+g16
+g17
+tp1758
+Rp1759
+(I1
+(I64
+tp1760
+g58
+I00
+(lp1761
+S'Homogenized from new and previously published data; StandardJohnson UBVRI filters assumed'
+p1762
+aS'Homogenized from new and previously published data; StandardJohnson UBVRI filters assumed'
+p1763
+aS'Homogenized from new and previously published data;Extinction-corrected for internal and Milky Way andK-correction applied; Standard Johnson UBVRI filtersassumed'
+p1764
+aS'From new raw data'
+p1765
+aS'From new raw data'
+p1766
+aS'From new raw data'
+p1767
+aS'From new raw data'
+p1768
+aS'From new raw data'
+p1769
+aS'From new raw data; Uncorrected for known sources in beam'
+p1770
+aS'From new raw data'
+p1771
+aS'From new raw data'
+p1772
+aS'From new raw data; Uncorrected for known sources in beam'
+p1773
+aS'From new raw data'
+p1774
+aS'From new raw data'
+p1775
+aS'From new raw data'
+p1776
+aS'From new raw data'
+p1777
+aS'From new raw data; Extinction-corrected for Milky Way'
+p1778
+aS'From new raw data'
+p1779
+aS'From new raw data'
+p1780
+aS'From new raw data; Uncorrected for known sources in beam'
+p1781
+aS'From new raw data; Uncorrected for known sources in beam'
+p1782
+aS'From new raw data; Corrected for contaminating sources'
+p1783
+aS'From new raw data'
+p1784
+aS'Averaged new and previously published data;Extinction-corrected for Milky Way; Standard Cousins R_C, I_Cfilters assumed'
+p1785
+aS'Averaged new and previously published data; Standard CousinsR_C, I_C filters assumed'
+p1786
+aS'From new raw data; Uncorrected for known sources in beam'
+p1787
+aS'From new raw data'
+p1788
+aS'From new raw data; Uncorrected for known sources in beam'
+p1789
+aS'From new raw data'
+p1790
+aS'From new raw data'
+p1791
+aS'From new raw data'
+p1792
+aS'From new raw data'
+p1793
+aS'From new raw data'
+p1794
+aS'From new raw data'
+p1795
+aS'From new raw data'
+p1796
+aS'From new raw data'
+p1797
+aS'From new raw data'
+p1798
+aS'From new raw data'
+p1799
+aS'From new raw data'
+p1800
+aS'From new raw data'
+p1801
+aS'From new raw data'
+p1802
+aS'From new raw data'
+p1803
+aS'From new raw data'
+p1804
+aS'From new raw data'
+p1805
+aS'From new raw data'
+p1806
+aS'From new raw data'
+p1807
+aS'From new raw data'
+p1808
+aS'From new raw data'
+p1809
+aS'From new raw data'
+p1810
+aS'From reprocessed raw data'
+p1811
+aS'From new raw data'
+p1812
+aS'From reprocessed raw data'
+p1813
+aS'From new raw data'
+p1814
+aS'From new raw data'
+p1815
+aS'From reprocessed raw data'
+p1816
+aS'From reprocessed raw data'
+p1817
+aS'From reprocessed raw data'
+p1818
+aS'From new raw data'
+p1819
+aS'Homogenized from new and previously published data'
+p1820
+aS'From new raw data'
+p1821
+aS'Averaged from previously published data'
+p1822
+aS'From new raw data; Corrected for flux in reference beam'
+p1823
+aS'Transformed from previously published data'
+p1824
+aS'Transformed from previously published data'
+p1825
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1826
+g29
+(g30
+(I0
+tp1827
+g17
+tp1828
+Rp1829
+(I1
+(tg58
+I00
+(lp1830
+g82
+atp1831
+b(g1757
+NNVOther information from the published source or from NED that may be helpful in interpreting or qualifying the data.
+p1832
+g9
+((lp1833
+(lp1834
+g44
+aVmeta.note;comment
+p1835
+aatp1836
+Rp1837
+(lp1838
+tp1839
+tp1840
+baatp1841
+Rp1842
+(dp1843
+g718
+VPublished and Homogenized [Frequency, Flux Density] Units
+p1844
+sg720
+VPhotometric Data for IC 5201
+p1845
+sg722
+VNED_PhotometricData
+p1846
+stp1847
+bsg725
+g726
+sg727
+g728
+(g21
+(S'S7'
+p1848
+I0
+I1
+tp1849
+Rp1850
+(I3
+S'|'
+p1851
+NNNI7
+I1
+I0
+tp1852
+bS'IC 5201'
+p1853
+tp1854
+Rp1855
+sg737
+(lp1856
+g728
+(g111
+S':\xaf\xb1K\xd4\xf3t@'
+p1857
+tp1858
+Rp1859
+ag728
+(g111
+S'\x06\x9e{\x0f\x97\x04G\xc0'
+p1860
+tp1861
+Rp1862
+asa(dp1863
+g2
+F706.0
+sg3
+g4
+(g5
+g6
+Ntp1864
+Rp1865
+(g9
+((lp1866
+(lp1867
+S'No.'
+p1868
+ag13
+(g14
+g15
+g16
+g17
+tp1869
+Rp1870
+(I1
+(I10
+tp1871
+g24
+I00
+S'\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00\x05\x00\x00\x00\x06\x00\x00\x00\x07\x00\x00\x00\x08\x00\x00\x00\t\x00\x00\x00\n\x00\x00\x00'
+p1872
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1873
+g29
+(g30
+(I0
+tp1874
+g17
+tp1875
+Rp1876
+(I1
+(tg36
+I00
+S'?B\x0f\x00'
+p1877
+tp1878
+b(g1868
+NNVA sequential number of Photometry Measurement for this object, applicable to this list only.
+p1879
+g9
+((lp1880
+(lp1881
+g44
+aVmeta.number;phot.mag
+p1882
+aatp1883
+Rp1884
+(lp1885
+tp1886
+tp1887
+baa(lp1888
+S'Observed Passband'
+p1889
+ag13
+(g14
+g15
+g16
+g17
+tp1890
+Rp1891
+(I1
+(I10
+tp1892
+g58
+I00
+(lp1893
+S'B (Johnson)'
+p1894
+aS'b_J'
+p1895
+aS'B_J'
+p1896
+aS'R (Cousins)'
+p1897
+ag70
+aS'H{alpha} (CTIO)'
+p1898
+aS'H{alpha}+[NII]'
+p1899
+ag71
+aS'HI 21cm line Parkes'
+p1900
+aS'HI line (Parkes)'
+p1901
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1902
+g29
+(g30
+(I0
+tp1903
+g17
+tp1904
+Rp1905
+(I1
+(tg58
+I00
+(lp1906
+g29
+(g30
+(I0
+tp1907
+g17
+tp1908
+Rp1909
+(I1
+(tg58
+I00
+(lp1910
+g82
+atp1911
+batp1912
+b(g1889
+NNVColloquial descriptions of the frequency or wavelength at which the data were collected, identifying the bandpass by name e.g., "V","1.4GHz", "6 cm", "HI", etc.
+p1913
+g9
+((lp1914
+(lp1915
+g44
+aVinstr.bandpass
+p1916
+aatp1917
+Rp1918
+(lp1919
+tp1920
+tp1921
+baa(lp1922
+S'Photometry Measurement'
+p1923
+ag13
+(g14
+g15
+g16
+g17
+tp1924
+Rp1925
+(I1
+(I10
+tp1926
+g101
+I00
+S'333333/@\x14\xaeG\xe1z\xd43@\xf9\x0f\xe9\xb7\xaf\x03.@\x1f\x85\xebQ\xb8\x1e.@\xaa\x82QI\x9d\xe0-@{\x14\xaeG\xe1z*\xc0)\\\x8f\xc2\xf5(*\xc0x\x9c\xa2#\xb9\xdc.@\xcd\xcc\xcc\xcc\xcc\xcc/@\xcd\xcc\xcc\xcc\xcc\xcc-@'
+p1927
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1928
+g29
+(g30
+(I0
+tp1929
+g17
+tp1930
+Rp1931
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p1932
+tp1933
+b(g1923
+NV{!r:>}
+p1934
+VThe published photometry or fluxes  for this point.
+p1935
+g9
+((lp1936
+(lp1937
+g44
+aVphot
+p1938
+aatp1939
+Rp1940
+(lp1941
+tp1942
+tp1943
+baa(lp1944
+S'Uncertainty'
+p1945
+ag13
+(g14
+g15
+g16
+g17
+tp1946
+Rp1947
+(I1
+(I10
+tp1948
+g58
+I00
+(lp1949
+S'+/-0.17'
+p1950
+aS'+/-0.14'
+p1951
+ag136
+aS'+/-0.19'
+p1952
+ag136
+aS'+/-0.07'
+p1953
+aS'+/-0.06'
+p1954
+ag136
+aS'+/-2.6'
+p1955
+ag136
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1956
+g29
+(g30
+(I0
+tp1957
+g17
+tp1958
+Rp1959
+(I1
+(tg58
+I00
+(lp1960
+g82
+atp1961
+b(g1945
+NNVThe published uncertainty for photometric data.
+p1962
+g9
+((lp1963
+(lp1964
+g44
+aVstat.error;phot
+p1965
+aatp1966
+Rp1967
+(lp1968
+tp1969
+tp1970
+baa(lp1971
+S'Units'
+p1972
+ag13
+(g14
+g15
+g16
+g17
+tp1973
+Rp1974
+(I1
+(I10
+tp1975
+g58
+I00
+(lp1976
+S'mag'
+p1977
+aS'mag'
+p1978
+aS'mag'
+p1979
+aS'mag'
+p1980
+aS'mag'
+p1981
+aS'log(erg/cm^2^/s)'
+p1982
+aS'log(ergs/cm^2^/s)'
+p1983
+aS'mag'
+p1984
+aS'Jy km/s'
+p1985
+aS'Jy km s^-1^'
+p1986
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p1987
+g29
+(g30
+(I0
+tp1988
+g17
+tp1989
+Rp1990
+(I1
+(tg58
+I00
+(lp1991
+g82
+atp1992
+b(g1972
+NNVUnits of photometry measurement for this point.
+p1993
+g9
+((lp1994
+(lp1995
+g44
+aVmeta.unit;phot
+p1996
+aatp1997
+Rp1998
+(lp1999
+tp2000
+tp2001
+baa(lp2002
+S'Frequency'
+p2003
+ag13
+(g14
+g15
+g16
+g17
+tp2004
+Rp2005
+(I1
+(I10
+tp2006
+g101
+I00
+S'\x00\x80\xbcX\xedZ\x03C\x00\x80h\x8a\xe37\x02C\x00\x80h\x8a\xe37\x02C\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x14\xdcK\x9a\xfaB\x00\x00\x99\xaa9\xfa\xf9B\x00\x00H`\xac\xeb\xf9B\x00\x00\xeb\x05-\x8b\xf5B\x00\x00\x00\xc0\xde(\xd5A\x00\x00\x00\xc0\xde(\xd5A'
+p2007
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2008
+g29
+(g30
+(I0
+tp2009
+g17
+tp2010
+Rp2011
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p2012
+tp2013
+b(g2003
+g201
+V{!r:>}
+p2014
+VThe frequency, wavelength, or photometric passband, in absolute units as calculated by NED
+p2015
+g9
+((lp2016
+(lp2017
+g44
+aVem.freq
+p2018
+aatp2019
+Rp2020
+(lp2021
+tp2022
+tp2023
+baa(lp2024
+S'NED Photometry Measurement'
+p2025
+ag13
+(g14
+g15
+g16
+g17
+tp2026
+Rp2027
+(I1
+(I10
+tp2028
+g101
+I00
+S'n\xa3\x01\xbc\x05\x12d?*B\xa0\xe9\xdb8\x08?X\x1c\xce\xfcj\x0ep?I\x80\x9aZ\xb6\xd6g?\xa2\x97Q,\xb7\xb4j?\x00\x00\x00\x98\xa0k\xf5A\x00\x00\x00\x00\x92\xfe\xfeA1\xce\xdf\x84B\x04\\?\x00\x00\x00\x00@I\xf2@\x00\x00\x00\x00\x000\xf1@'
+p2029
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2030
+g29
+(g30
+(I0
+tp2031
+g17
+tp2032
+Rp2033
+(I1
+(tg111
+I00
+S'@\x8c\xb5x\x1d\xaf\x15D'
+p2034
+tp2035
+b(g2025
+g275
+V{!r:>}
+p2036
+VFlux/Photometric data for this point as transformed and stored by NED.
+p2037
+g9
+((lp2038
+(lp2039
+g44
+aVphot
+p2040
+aatp2041
+Rp2042
+(lp2043
+tp2044
+tp2045
+baa(lp2046
+S'NED Uncertainty'
+p2047
+ag13
+(g14
+g15
+g16
+g17
+tp2048
+Rp2049
+(I1
+(I10
+tp2050
+g58
+I00
+(lp2051
+S'+/-4.16E-04'
+p2052
+aS'+/-6.36E-06'
+p2053
+ag136
+aS'+/-5.57E-04'
+p2054
+ag136
+aS'+/-9.28E+08'
+p2055
+aS'+/-1.15E+09'
+p2056
+ag136
+aS'+/-1.22E+04'
+p2057
+ag136
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2058
+g29
+(g30
+(I0
+tp2059
+g17
+tp2060
+Rp2061
+(I1
+(tg58
+I00
+(lp2062
+g82
+atp2063
+b(g2047
+NNVPhotometric/Flux uncertainty as transformed and stored by NED.
+p2064
+g9
+((lp2065
+(lp2066
+g44
+aVstat.error;phot
+p2067
+aatp2068
+Rp2069
+(lp2070
+tp2071
+tp2072
+baa(lp2073
+S'NED Units'
+p2074
+ag13
+(g14
+g15
+g16
+g17
+tp2075
+Rp2076
+(I1
+(I10
+tp2077
+g58
+I00
+(lp2078
+S'Jy'
+p2079
+aS'Jy'
+p2080
+aS'Jy'
+p2081
+aS'Jy'
+p2082
+aS'Jy'
+p2083
+aS'Jy-Hz'
+p2084
+aS'Jy-Hz'
+p2085
+aS'Jy'
+p2086
+aS'Jy-Hz'
+p2087
+aS'Jy-Hz'
+p2088
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2089
+g29
+(g30
+(I0
+tp2090
+g17
+tp2091
+Rp2092
+(I1
+(tg58
+I00
+(lp2093
+g82
+atp2094
+b(g2074
+NNVAbsolute units of photometry measurement for this point.
+p2095
+g9
+((lp2096
+(lp2097
+g44
+aVmeta.unit;phot
+p2098
+aatp2099
+Rp2100
+(lp2101
+tp2102
+tp2103
+baa(lp2104
+S'Refcode'
+p2105
+ag13
+(g14
+g15
+g16
+g17
+tp2106
+Rp2107
+(I1
+(I10
+tp2108
+g58
+I00
+(lp2109
+S'2005A&A...433..751M'
+p2110
+aS'1990MNRAS.243..692M'
+p2111
+aS'2005MNRAS.361...34D'
+p2112
+aS'2005A&A...433..751M'
+p2113
+aS'2005MNRAS.361...34D'
+p2114
+aS'2006ApJS..165..307M'
+p2115
+aS'2008ApJS..178..247K'
+p2116
+aS'2005MNRAS.361...34D'
+p2117
+aS'2004AJ....128...16K'
+p2118
+aS'2005MNRAS.361...34D'
+p2119
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2120
+g29
+(g30
+(I0
+tp2121
+g17
+tp2122
+Rp2123
+(I1
+(tg58
+I00
+(lp2124
+g82
+atp2125
+b(g2105
+NNVThe NED 19-digit Bibliographic Reference code.
+p2126
+g9
+((lp2127
+(lp2128
+g44
+aVmeta.bib.bibcode
+p2129
+aatp2130
+Rp2131
+(lp2132
+tp2133
+tp2134
+baa(lp2135
+S'Significance'
+p2136
+ag13
+(g14
+g15
+g16
+g17
+tp2137
+Rp2138
+(I1
+(I10
+tp2139
+g58
+I00
+(lp2140
+S'estimated error'
+p2141
+aS'rms uncertainty'
+p2142
+aS'no uncertainty reported'
+p2143
+aS'estimated error'
+p2144
+aS'no uncertainty reported'
+p2145
+aS'uncertainty'
+p2146
+aS'1 sigma'
+p2147
+aS'no uncertainty reported'
+p2148
+aS'uncertainty'
+p2149
+aS'no uncertainty reported'
+p2150
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2151
+g29
+(g30
+(I0
+tp2152
+g17
+tp2153
+Rp2154
+(I1
+(tg58
+I00
+(lp2155
+g82
+atp2156
+b(g2136
+NNVType of uncertainty reported in the original publication
+p2157
+g9
+((lp2158
+(lp2159
+g44
+aVmeta.code.error
+p2160
+aatp2161
+Rp2162
+(lp2163
+tp2164
+tp2165
+baa(lp2166
+S'Published frequency'
+p2167
+ag13
+(g14
+g15
+g16
+g17
+tp2168
+Rp2169
+(I1
+(I10
+tp2170
+g58
+I00
+(lp2171
+S'4400   A'
+p2172
+aS'4680      A'
+p2173
+aS'4680   A'
+p2174
+aS'6400   A'
+p2175
+aS'6400   A'
+p2176
+aS'6563   A'
+p2177
+aS'6573.5 A'
+p2178
+aS'7900   A'
+p2179
+aS'706   km s^-1^'
+p2180
+aS'706.7      km s^-1^'
+p2181
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2182
+g29
+(g30
+(I0
+tp2183
+g17
+tp2184
+Rp2185
+(I1
+(tg58
+I00
+(lp2186
+g82
+atp2187
+b(g2167
+NNVWavelength or frequency  of observation as given in the original publication
+p2188
+g9
+((lp2189
+(lp2190
+g44
+aVmeta.ref;em.freq
+p2191
+aatp2192
+Rp2193
+(lp2194
+tp2195
+tp2196
+baa(lp2197
+S'Frequency Mode'
+p2198
+ag13
+(g14
+g15
+g16
+g17
+tp2199
+Rp2200
+(I1
+(I10
+tp2201
+g58
+I00
+(lp2202
+S'Broad-band measurement'
+p2203
+aS'Broad-band measurement'
+p2204
+aS'Broad-band measurement'
+p2205
+aS'Broad-band measurement'
+p2206
+aS'Broad-band measurement'
+p2207
+aS'Line measurement; flux integrated over line'
+p2208
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p2209
+aS'Broad-band measurement'
+p2210
+aS'Line measurement; flux integrated over line'
+p2211
+aS'Line measurement; flux integrated over line; lines measured in emission'
+p2212
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2213
+g29
+(g30
+(I0
+tp2214
+g17
+tp2215
+Rp2216
+(I1
+(tg58
+I00
+(lp2217
+g82
+atp2218
+b(g2198
+NNVThe method(s) by which the data were collected, reduced, or derived, regarding the frequency or wavelength;
+p2219
+g9
+((lp2220
+(lp2221
+g44
+aVmeta.ref;em.freq;instr.setup
+p2222
+aatp2223
+Rp2224
+(lp2225
+tp2226
+tp2227
+baa(lp2228
+S'Coordinates Targeted'
+p2229
+ag13
+(g14
+g15
+g16
+g17
+tp2230
+Rp2231
+(I1
+(I10
+tp2232
+g58
+I00
+(lp2233
+S'22 22 30.6 -48 24 16 (J2000)'
+p2234
+aS'221924.62 -483928.0 (B1950)'
+p2235
+aS'222230.2 -482412.9 (J2000)'
+p2236
+aS'22 22 30.6 -48 24 16 (J2000)'
+p2237
+aS'222230.2 -482412.9 (J2000)'
+p2238
+aS'22 22 29.8 -48 24 14 (J2000)'
+p2239
+aS'22 22 30.0 -48 24 18 (J2000)'
+p2240
+aS'222230.2 -482412.9 (J2000)'
+p2241
+aS'22 22 27 -48 24 28 (J2000)'
+p2242
+aS'222224.7 -482436. (J2000)'
+p2243
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2244
+g29
+(g30
+(I0
+tp2245
+g17
+tp2246
+Rp2247
+(I1
+(tg58
+I00
+(lp2248
+g82
+atp2249
+b(g2229
+NNVThe position at which the measurements were taken, followed by the coordinate reference frame (e.g.,  013350.90 +303935.8 (J2000) in format HHMMSS.ss +DDMMSS.s (EQUINOX),  etc.).
+p2250
+g9
+((lp2251
+(lp2252
+g44
+aVpos
+p2253
+aatp2254
+Rp2255
+(lp2256
+tp2257
+tp2258
+baa(lp2259
+S'Spatial Mode'
+p2260
+ag13
+(g14
+g15
+g16
+g17
+tp2261
+Rp2262
+(I1
+(I10
+tp2263
+g58
+I00
+(lp2264
+S'Total flux'
+p2265
+aS'Flux integrated from map'
+p2266
+aS'Flux in fixed aperture'
+p2267
+aS'Total flux'
+p2268
+aS'Flux in fixed aperture'
+p2269
+aS'Flux in fixed aperture'
+p2270
+aS'Flux integrated from map'
+p2271
+aS'Flux in fixed aperture'
+p2272
+aS'Flux integrated from map'
+p2273
+aS'Flux integrated from map'
+p2274
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2275
+g29
+(g30
+(I0
+tp2276
+g17
+tp2277
+Rp2278
+(I1
+(tg58
+I00
+(lp2279
+g82
+atp2280
+b(g2260
+NNVThe method(s) by which the data were collected, reduced, or derived, regarding the spatially integrated flux
+p2281
+g9
+((lp2282
+(lp2283
+g44
+aVphot.flux;instr.setup
+p2284
+aatp2285
+Rp2286
+(lp2287
+tp2288
+tp2289
+baa(lp2290
+S'Qualifiers'
+p2291
+ag13
+(g14
+g15
+g16
+g17
+tp2292
+Rp2293
+(I1
+(I10
+tp2294
+g58
+I00
+(lp2295
+g136
+ag136
+ag136
+ag136
+ag136
+aS'Corrected for [N II] contamination'
+p2296
+ag136
+ag136
+ag136
+ag136
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2297
+g29
+(g30
+(I0
+tp2298
+g17
+tp2299
+Rp2300
+(I1
+(tg58
+I00
+(lp2301
+g82
+atp2302
+b(g2291
+NNVSelf-explanatory notes pertaining to the history of the data or adjustments to the data or hanges introduced by NED
+p2303
+g9
+((lp2304
+(lp2305
+g44
+aVmeta.note;instr.setup
+p2306
+aatp2307
+Rp2308
+(lp2309
+tp2310
+tp2311
+baa(lp2312
+S'Comments'
+p2313
+ag13
+(g14
+g15
+g16
+g17
+tp2314
+Rp2315
+(I1
+(I10
+tp2316
+g58
+I00
+(lp2317
+S'From new raw data'
+p2318
+aS'From new raw data'
+p2319
+aS'From new raw data'
+p2320
+aS'From new raw data'
+p2321
+aS'From new raw data'
+p2322
+aS'From new raw data; Extinction-corrected for Milky Way'
+p2323
+aS'From new raw data'
+p2324
+aS'From new raw data'
+p2325
+aS'From new raw data'
+p2326
+aS'Averaged from previously published data'
+p2327
+aS'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p2328
+g29
+(g30
+(I0
+tp2329
+g17
+tp2330
+Rp2331
+(I1
+(tg58
+I00
+(lp2332
+g82
+atp2333
+b(g2313
+NNVOther information from the published source or from NED that may be helpful in interpreting or qualifying the data.
+p2334
+g9
+((lp2335
+(lp2336
+g44
+aVmeta.note;comment
+p2337
+aatp2338
+Rp2339
+(lp2340
+tp2341
+tp2342
+baatp2343
+Rp2344
+(dp2345
+g718
+VPublished and Homogenized [Frequency, Flux Density] Units
+p2346
+sg720
+VPhotometric Data for ESO 238-???005
+p2347
+sg722
+VNED_PhotometricData
+p2348
+stp2349
+bsg725
+g726
+sg727
+g728
+(g21
+(S'S14'
+p2350
+I0
+I1
+tp2351
+Rp2352
+(I3
+S'|'
+p2353
+NNNI14
+I1
+I0
+tp2354
+bS'ESO 238- G 005'
+p2355
+tp2356
+Rp2357
+sg737
+(lp2358
+g728
+(g111
+S'\xb8\x92\x1d\x1b\x01\xfat@'
+p2359
+tp2360
+Rp2361
+ag728
+(g111
+S'@\x13a\xc3\xd33H\xc0'
+p2362
+tp2363
+Rp2364
+asa.
