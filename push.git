@@ -6,5 +6,5 @@ fi
 
 git add .
 git commit -m "$com"
-git push --set-upstream https://github.com/bosscha/Galaxies.git
+git push --set-upstream https://github.com/bosscha/Galaxies master
 
